@@ -55,7 +55,7 @@ This is homepage of Shumin Deng
 21. **Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolution Network** \[[PAPER](https://dl.acm.org/citation.cfm?id=3317701&dl=ACM&coll=DL)\] <br>WWW-KGTA, 2019. <br>***Shumin Deng***, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. 
 22. **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction** \[[PAPER](https://www.aclweb.org/anthology/D18-1120/)\] <br>EMNLP, 2018. <br>Ningyu Zhang, ***Shumin Deng***, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen. 
 23. **Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis** \[[PAPER](https://www.mdpi.com/2220-9964/7/7/264)\] <br>ISPRS, International Journal of Geo-Information, 2018.  <br>Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
-24. **Location Based Link Prediction for Knowledge Graph ** \[[PAPER](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm)\] <br>Journal of Chinese Information Processing, 2018. 
+24. **Location Based Link Prediction for Knowledge Graph** \[[PAPER](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm)\] <br>Journal of Chinese Information Processing, 2018. 
     Ningyu Zhang, Xi Chen, Jiaoyan Chen, ***Shumin Deng***, Wei Ruan, Chunming Wu, Huajun Chen.
 25. **Deep Learning for Knowledge-Driven Ontology Stream Prediction**  \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5)\] <br>Communications in Computer and Information Science, 2018. <br>
     ***Shumin Deng***, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen. 
