@@ -1,5 +1,4 @@
 ## Welcome to Shumin's Homepage
-
 This is homepage of Shumin Deng
 
 <table>
@@ -11,55 +10,25 @@ This is homepage of Shumin Deng
       <h1>Shumin Deng (邓淑敏)</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>School of Computer Science and Technology, Zhejiang University</b></p>
-      <p><b>E-mail: </b>231sm@zju.edu.cn</p>
+      Hi! I am Shumin Deng. I am a PhD Candidate at School of Computer Science and Technology, Zhejiang University, with the supervision of <a href = 'http://mypage.zju.edu.cn/huajun'>Prof. Huajun Chen</a>. 
+      I have obtained my bachelor degree from College of Software Engineering, Xidian University.
     </td>
   </tr>
   <tr>
-    <td text-align:"center">
-      <a href="https://scholar.google.com/citations?user=3am3hL4AAAAJ"> [Google Scholar] </a> <br>
-      <a href=https://dblp.uni-trier.de/pid/213/1853.html> [DBLP] </a> <br>
-      <a href="https://github.com/231sm"> [Github] </a>
+    <td text-align="center">
+      <a href="https://scholar.google.com/citations?user=3am3hL4AAAAJ">[Google Scholar]</a> <br>
+      <a href="https://dblp.uni-trier.de/pid/213/1853.html">[DBLP]</a> <br>
+      <a href="https://github.com/231sm">[Github]</a> <br>
+      <a href="cv.pdf">[CV]</a> 
     </td>
     <td>
-      <p><b>Research Interests</b> <br> Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. </p>
+      <p><b>Research Interests: </b> <br> Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. </p>
+      <p><b>E-mail: </b>231sm@zju.edu.cn</p>
     </td>
   </tr>
 </table>
 
-<div style="max-width:800px" class="container">
-  <div class="page-header">
-   <div class="row">
-    <div class="col-sm-3">
-      <br>
-      <div align="center">
-        <img class="img-responsive" src="./Shumin.jpg" width="200" height="220">
-        <br>
-        <a href="https://scholar.google.com/citations?user=3am3hL4AAAAJ"> [Google Scholar] </a> <br>
-        <a href=https://dblp.uni-trier.de/pid/213/1853.html> [DBLP] </a> <br>
-        <a href="https://github.com/231sm"> [Github] </a> <br>
-        <a href="cv.pdf"> [CV] </a> 
-      </div>
-    </div> <!--.col-sm-4-->
-    <div class="col-sm-9">
-      <h1> Shumin Deng <span style="font-family:STFangsong; font-size:20pt"> (邓淑敏)</span> </h1>
-      <br>
-      <p>
-        Hi! I am Shumin Deng. I am a PhD Candidate at <a href='http://www.cs.zju.edu.cn/'>School of Computer Science and Technology, Zhejiang University</a>, with the supervision of Prof. <a href = 'http://mypage.zju.edu.cn/huajun'>Huajun Chen</a>. 
-        I have obtained my bachelor degree from <a href='https://cs.xidian.edu.cn/'>College of Software Engineering, Xidian University</a>.
-      </p>
-      <p>
-        My research interests mainly lie in Machine Learning, Natural Language Processing, and Knowledge Graph. 
-      </p>
-      <p>E-mail: { 231sm@zju.edu.cn }</p>
-    </div> <!--.col-sm-4-->
-  </div> <!--/.row-->
-</div>
-</div>
-
-
-
 ## Publications
-
 ### Papers 
 
 (\*: equal contribution)
@@ -90,9 +59,6 @@ This is homepage of Shumin Deng
 22. **Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolution Network** \[[PAPER](https://dl.acm.org/citation.cfm?id=3317701&dl=ACM&coll=DL)\] <br>WWW-KGTA, 2019. <br>***Shumin Deng***, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. 
 23. **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction** \[[PAPER](https://www.aclweb.org/anthology/D18-1120/)\] <br>EMNLP, 2018. <br>Ningyu Zhang, ***Shumin Deng***, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen. 
 24. **Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis** \[[PAPER](https://www.mdpi.com/2220-9964/7/7/264)\] <br>ISPRS, International Journal of Geo-Information, 2018.  <br>Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
-25. **Location Based Link Prediction for Knowledge Graph** \[[PAPER](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm)\] <br>Journal of Chinese Information Processing, 2018. 
-    Ningyu Zhang, Xi Chen, Jiaoyan Chen, ***Shumin Deng***, Wei Ruan, Chunming Wu, Huajun Chen.
-26. **Deep Learning for Knowledge-Driven Ontology Stream Prediction**  \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5)\] <br>Communications in Computer and Information Science, 2018. <br>
-    ***Shumin Deng***, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen. 
-27. **CrowdGeoKG: Crowdsourced Geo-Knowledge Graph** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-10-7359-5_17)\] <br>Communications in Computer and Information Science, 2017. <br>
-    Jiaoyan Chen, ***Shumin Deng***, Huajun Chen. 
+25. **Location Based Link Prediction for Knowledge Graph** \[[PAPER](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm)\] <br>Journal of Chinese Information Processing, 2018. <br>Ningyu Zhang, Xi Chen, Jiaoyan Chen, ***Shumin Deng***, Wei Ruan, Chunming Wu, Huajun Chen.
+26. **Deep Learning for Knowledge-Driven Ontology Stream Prediction**  \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5)\] <br>Communications in Computer and Information Science, 2018. <br>***Shumin Deng***, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen. 
+27. **CrowdGeoKG: Crowdsourced Geo-Knowledge Graph** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-10-7359-5_17)\] <br>Communications in Computer and Information Science, 2017. <br>Jiaoyan Chen, ***Shumin Deng***, Huajun Chen. 
