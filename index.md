@@ -30,11 +30,9 @@ This is homepage of Shumin Deng
 
 ## Publications
 ### Papers 
-
 (\*: equal contribution)
 
-​       <font color=blue size=4>**2021**</font>
-
+​	   <font color=blue size=4><b>2021</b></font>
 1. **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER]()\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Juan Li, Evgeny Kharlamov. (**1st** student author)
 2. **Robust Triple Extraction with Cascade Bidirectional Capsule Network** \[[PAPER]()\] <br>ESWA, Expert Systems with Applications, 2021. <br>Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**1st** student author)
 3. **Contrastive Information Extraction with Generative Transformer** \[[PAPER]()\] <br>TASLP, IEEE Transactions on Audio, Speech and Language Processing, 2021. <br>Ningyu Zhang, Hongbin Ye, ***Shumin Deng***, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen. (**2nd** student author)
@@ -45,7 +43,7 @@ This is homepage of Shumin Deng
 8. **Negative Augmentation with Language Model for Reading Comprehension of Abstract Meaning** \[[PAPER](https://aclanthology.org/2021.semeval-1.108/)\] <br>ACL, Workshop on SemEval-2021 Task 4, 2021. <br>Xin Xie, Xiangnan Chen, Xiang Chen, Yong Wang, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
 9. **Drop Redundant, Shrink Irrelevant: Selective Knowledge Injection for Language Pretraining** \[[PAPER](https://www.ijcai.org/proceedings/2021/552)\] <br>IJCAI, 2021. <br>Ningyu Zhang\*, ***Shumin Deng\****, Xu Cheng, Xi Chen, Yichi Zhang, Wei Zhang, Huajun Chen. (**1st** student author)
 10. **Document-level Relation Extraction as Semantic Segmentation** \[[PAPER](https://www.ijcai.org/proceedings/2021/551)\] <br>IJCAI, 2021. <br>Ningyu Zhang, Xiang Chen, Xin Xie, ***Shumin Deng***, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si, Huajun Chen. 
-11. **Contrastive Triple Extraction with Generative Transformer** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/17677)\] <br>AAAI, 2021. <br>Hongbin Ye, Ningyu Zhang, ***Shumin Deng***, Mosha Chen, Chuanqi Tan, Fei Huang, Huajun Chen. (**2nd** student author)<br><br><font color=blue size=4>**2020**</font>
+11. **Contrastive Triple Extraction with Generative Transformer** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/17677)\] <br>AAAI, 2021. <br>Hongbin Ye, Ningyu Zhang, ***Shumin Deng***, Mosha Chen, Chuanqi Tan, Fei Huang, Huajun Chen. (**2nd** student author)<br><br><font color=blue size=4><b>2020</b></font>
 12. **Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction** \[[PAPER](https://aclanthology.org/2020.coling-main.563/)\] <br>COLING, 2020. <br>Haiyang Yu, Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**2nd** student author)
 13. **Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention** \[[PAPER](https://aclanthology.org/2020.findings-emnlp.2/)\] <br>EMNLP, 2020. <br>Ningyu Zhang, ***Shumin Deng***, Juan Li, Xi Chen, Wei Zhang, Huajun Chen. (**1st** student author)
 14. **OpenUE: An Open Toolkit of Universal Extraction from Text** \[[PAPER](https://aclanthology.org/2020.emnlp-demos.1/)\] <br>EMNLP, 2020. <br>Ningyu Zhang, ***Shumin Deng***, Zhen Bi, Haiyang Yu, Jiacheng Yang, Mosha Chen, Fei Huang, Wei Zhang, Huajun Chen. (**1st** student author)
@@ -53,7 +51,7 @@ This is homepage of Shumin Deng
 16. **Relation Adversarial Network for Low Resource Knowledge Graph Completion** \[[PAPER](https://dl.acm.org/doi/abs/10.1145/3366423.3380089)\] <br>WWW, 2020. <br>Ningyu Zhang\*, ***Shumin Deng\****, Zhanlin Sun, Jiaoayan Chen, Wei Zhang, Huajun Chen. (**1st** student author)
 17. **When Low Resource NLP Meets Unsupervised Language Model: Meta-Pretraining Then Meta-Learning for Few-Shot Text Classification** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/7158)\] <br>AAAI Student Abstract, 2020. <br>***Shumin Deng***, Ningyu Zhang, Zhanlin Sun, Jiaoyan Chen and Huajun Chen. 
 18. **Joint Extraction of Triple Knowledge Based on Relation Priority** \[[PAPER](https://conferences.computer.org/ispapub/pdfs/ISPA-BDCloud-SocialCom-SustainCom2020-61uthIiswrO37XTCl0drpO/319900a562/319900a562.pdf)\] <br>ISPA, IEEE Intl Conf on Parallel & Distributed Processing with Applications, 2020. <br>Chuanzhi Zhuang, Ningyu Zhang, Xiaolong Jin Zhong Li, ***Shumin Deng***, Huajun Chen.
-19. **Knowledge-Enhanced Collaborative Meta Learner for Long-Tail Recommendation** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_26)\] <br>Communications in Computer and Information Science, 2020. <br>Bo Wen, ***Shumin Deng***, Huajun Chen.  <br><br><font color=blue size=4>**2019 and Before**</font>
+19. **Knowledge-Enhanced Collaborative Meta Learner for Long-Tail Recommendation** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_26)\] <br>Communications in Computer and Information Science, 2020. <br>Bo Wen, ***Shumin Deng***, Huajun Chen.  <br><br><font color=blue size=4><b>2019 and Before</b></font>
 20. **XTransE: Explainable Knowledge Graph Embedding for Link Prediction with Lifestyles in e-Commerce** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-15-3412-6_8)\] <br>JIST, 2019. <br>Wen Zhang, ***Shumin Deng***, Han Wang, Qiang Chen, Wei Zhang, Huajun Chen. 
 21. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks** \[[PAPER](https://www.aclweb.org/anthology/N19-1306/)\] <br>NAACL, 2019. <br>Ningyu Zhang, ***Shumin Deng***, Zhanling Sun, Xi Chen, Wei Zhang, Huajun Chen. 
 22. **Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolution Network** \[[PAPER](https://dl.acm.org/citation.cfm?id=3317701&dl=ACM&coll=DL)\] <br>WWW-KGTA, 2019. <br>***Shumin Deng***, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. 
