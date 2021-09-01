@@ -1,5 +1,4 @@
 ## Welcome to Shumin's Homepage
-
 This is homepage of Shumin Deng
 
 ### Bio
@@ -18,30 +17,20 @@ This is homepage of Shumin Deng
   </tr>
 </table>
 
-```markdown
-Syntax highlighted code block
+### Research Interests
+Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. 
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
+[Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis](https://www.mdpi.com/2220-9964/7/7/264). (ISPRS International Journal of Geo-Information, 2018)
+Ningyu Zhang, **Shumin Deng**, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
 
-- Bulleted
-- List
+[Location Based Link Prediction for Knowledge Graph](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm). (Journal of Chinese Information Processing, 2018)
+Ningyu Zhang, Xi Chen, Jiaoyan Chen, **Shumin Deng**, Wei Ruan, Chunming Wu, Huajun Chen.
 
-1. Numbered
-2. List
+[Deep Learning for Knowledge-Driven Ontology Stream Prediction](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5). (Communications in Computer and Information Science, 2018)
+**Shumin Deng**, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen.
 
-**Bold** and _Italic_ and `Code` text
+[CrowdGeoKG: Crowdsourced Geo-Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-10-7359-5_17). (Communications in Computer and Information Science, 2017)
+Jiaoyan Chen, **Shumin Deng**, Huajun Chen.
 
-[Link](url) and ![Image](src)
-```
-https://github.com/231sm/231sm.github.io/blob/main/Shumin.jpg
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/231sm/231sm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
