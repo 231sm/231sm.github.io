@@ -13,7 +13,7 @@ This is homepage of Shumin Deng
       <h1>邓淑敏(Shumin Deng)</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>School of Computer Science and Technology, Zhejiang University</b></p>
-      <p><b>E-main：231sm@zju.edu.cn</b></p>
+      <p><b>E-mail：231sm@zju.edu.cn</b></p>
     </td>
   </tr>
 </table>
