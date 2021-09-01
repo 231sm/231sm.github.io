@@ -22,7 +22,7 @@ Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symb
 
 ### Publications
 1. 
-2. Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis. [PDF](https://www.mdpi.com/2220-9964/7/7/264) <br> (ISPRS International Journal of Geo-Information, 2018) <br> Ningyu Zhang, **Shumin Deng**, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
+2. Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis. \[[PDF](https://www.mdpi.com/2220-9964/7/7/264)\] <br> (ISPRS International Journal of Geo-Information, 2018) <br> Ningyu Zhang, **Shumin Deng**, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
 3. 
 4. 
 
