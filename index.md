@@ -6,14 +6,14 @@ This is homepage of Shumin Deng
 
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="/Shumin.jpg" width="100%">
+    </td>
     <td width="75%">
       <h1>邓淑敏(Shumin Deng)</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>School of Computer Science and Technology, Zhejiang University</b></p>
       <p><b>E-main：231sm@zju.edu.cn</b></p>
-    </td>
-    <td width="25%">
-      <img src="/Shumin.jpg" width="100%">
     </td>
   </tr>
 </table>
