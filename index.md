@@ -1,6 +1,3 @@
-## Welcome to Shumin's Homepage
-This is homepage of Shumin Deng
-
 <table border="0">
   <tr>
     <td width="25%">
