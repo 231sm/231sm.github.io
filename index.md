@@ -2,9 +2,21 @@
 
 This is homepage of Shumin Deng
 
-### Markdown
+### Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>邓淑敏(Shumin Deng)</h1>
+      <p><b>PhD Candidate</b></p>
+      <p><b>School of Computer Science and Technology, Zhejiang University</b></p>
+      <p><b>E-main：231sm@zju.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/Shumin.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +35,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+https://github.com/231sm/231sm.github.io/blob/main/Shumin.jpg
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
