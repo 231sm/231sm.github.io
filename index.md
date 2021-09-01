@@ -32,7 +32,7 @@ This is homepage of Shumin Deng
     <div class="col-sm-3">
       <br>
       <div align="center">
-        <img class="img-responsive" src="./Shumin.jpg">
+        <img class="img-responsive" src="./Shumin.jpg" width="100" height="220">
         <br>
         <a href="https://scholar.google.com/citations?user=3am3hL4AAAAJ"> [Google Scholar] </a> <br>
         <a href=https://dblp.uni-trier.de/pid/213/1853.html> [DBLP] </a> <br>
