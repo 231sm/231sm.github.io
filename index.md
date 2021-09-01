@@ -1,7 +1,7 @@
 ## Welcome to Shumin's Homepage
 This is homepage of Shumin Deng
 
-<table>
+<table border="0">
   <tr>
     <td width="25%">
       <img src="./Shumin.jpg" width="100%">
