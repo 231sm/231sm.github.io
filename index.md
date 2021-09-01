@@ -21,8 +21,11 @@ This is homepage of Shumin Deng
 Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. 
 
 ### Publications
-[Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis](https://www.mdpi.com/2220-9964/7/7/264). (ISPRS International Journal of Geo-Information, 2018)
-Ningyu Zhang, **Shumin Deng**, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
+1. 
+2. Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis. [PDF](https://www.mdpi.com/2220-9964/7/7/264)\\(ISPRS International Journal of Geo-Information, 2018)\\Ningyu Zhang, **Shumin Deng**, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
+3. 
+4. 
+
 
 [Location Based Link Prediction for Knowledge Graph](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm). (Journal of Chinese Information Processing, 2018)
 Ningyu Zhang, Xi Chen, Jiaoyan Chen, **Shumin Deng**, Wei Ruan, Chunming Wu, Huajun Chen.
