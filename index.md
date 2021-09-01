@@ -33,7 +33,7 @@ This is homepage of Shumin Deng
 
 (\*: equal contribution)
 
-​       <font color=blue size=4>**2021**</font>
+​       <font color="blue" size=4>**2021**</font>
 
 1. **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER]()\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Juan Li, Evgeny Kharlamov. (**1st** student author)
 2. **Robust Triple Extraction with Cascade Bidirectional Capsule Network** \[[PAPER]()\] <br>ESWA, Expert Systems with Applications, 2021. <br>Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**1st** student author)
