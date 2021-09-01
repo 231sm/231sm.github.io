@@ -5,7 +5,8 @@
     </td>
     <td width="75%">
       <h1>Shumin Deng (邓淑敏)</h1>
-      <p><b>PhD Candidate</b> at <b>School of Computer Science and Technology, Zhejiang University</b></p>
+      <p><b>PhD Candidate</b></p>
+      <p><b>School of Computer Science and Technology, Zhejiang University</b></p>
       Hi! I am Shumin Deng. I am a PhD Candidate at <a href='http://www.cs.zju.edu.cn/'>School of Computer Science and Technology, Zhejiang University</a>, with the supervision of <a href = 'http://mypage.zju.edu.cn/huajun'>Prof. Huajun Chen</a>. 
       I have obtained my bachelor degree from <a href='https://cs.xidian.edu.cn/'>College of Software Engineering, Xidian University</a>.
     </td>
