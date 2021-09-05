@@ -31,6 +31,14 @@ This is homepage of Shumin Deng
 
 
 
+## Academic Service
+
+**Journal Reviewer**: Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
+
+**Conference PC**: ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
+
+
+
 ## Publications
 
 ### Papers 
