@@ -31,12 +31,27 @@ This is homepage of Shumin Deng
 
 
 
+## Education
+
+* **Zhejiang University** 
+  - Ph.D. in Computer Science and Technology, 2017 - 
+  - Advisor: [Prof. Huajun Chen](http://mypage.zju.edu.cn/huajun)
+* **Xidian University**
+  - B.E. in Software Engineering, 2013 - 2017
+
+## Experience
+
+* **05/2018 - , Alibaba Group**
+  - Research Intern at New Retail Business Group
+  - Focus on: E-Commerce Knowledge Graph
+* **08/2018 - , AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
+  - Research Intern at Knowledge Engine Lab
+  - Focus on: Knowledge Graph Construction and Completion, Neuro-symbolic Reasoning
+
 ## Academic Service
 
-**Journal Reviewer**: Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
-
-**Conference PC**: ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
-
+* **Journal Reviewer**: Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
+* **Conference PC**: ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
 
 
 ## Publications
@@ -68,7 +83,7 @@ This is homepage of Shumin Deng
 19. **Knowledge-Enhanced Collaborative Meta Learner for Long-Tail Recommendation** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_26)\] <br>Communications in Computer and Information Science, 2020. <br>Bo Wen, ***Shumin Deng***, Huajun Chen.  <br><br><font color=blue size=4><b>2019 and Before</b></font>
 20. **XTransE: Explainable Knowledge Graph Embedding for Link Prediction with Lifestyles in e-Commerce** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-15-3412-6_8)\] <br>JIST, 2019. <br>Wen Zhang, ***Shumin Deng***, Han Wang, Qiang Chen, Wei Zhang, Huajun Chen. 
 21. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks** \[[PAPER](https://www.aclweb.org/anthology/N19-1306/)\] <br>NAACL, 2019. <br>Ningyu Zhang, ***Shumin Deng***, Zhanling Sun, Xi Chen, Wei Zhang, Huajun Chen. 
-22. **Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolution Network** \[[PAPER](https://dl.acm.org/citation.cfm?id=3317701&dl=ACM&coll=DL)\] <br>WWW-KGTA, 2019. <br>***Shumin Deng***, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. 
+22. **Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolution Network** \[[PAPER](https://dl.acm.org/citation.cfm?id=3317701&dl=ACM&coll=DL)\] <br>WWW@KGTA, 2019. <br>***Shumin Deng***, Ningyu Zhang, Wen Zhang, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen. 
 23. **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction** \[[PAPER](https://www.aclweb.org/anthology/D18-1120/)\] <br>EMNLP, 2018. <br>Ningyu Zhang, ***Shumin Deng***, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen. 
 24. **Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis** \[[PAPER](https://www.mdpi.com/2220-9964/7/7/264)\] <br>ISPRS, International Journal of Geo-Information, 2018.  <br>Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Xi Chen, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang. 
 25. **Location Based Link Prediction for Knowledge Graph** \[[PAPER](http://en.cnki.com.cn/Article_en/CJFDTotal-MESS201804010.htm)\] <br>Journal of Chinese Information Processing, 2018. <br>Ningyu Zhang, Xi Chen, Jiaoyan Chen, ***Shumin Deng***, Wei Ruan, Chunming Wu, Huajun Chen.
