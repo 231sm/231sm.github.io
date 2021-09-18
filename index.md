@@ -37,16 +37,18 @@ This is homepage of Shumin Deng
   - B.E. in Software Engineering, 2013 - 2017
 
 ## Experience
-* **05/2018 - , Alibaba Group**
+* **05/2018 - Now, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph
-* **08/2018 - , AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
+* **08/2018 - Now, AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
   - Research Intern at Knowledge Engine Lab
   - Focus on: Knowledge Graph Construction and Completion, Neuro-symbolic Reasoning
 
 ## Academic Service
-* **Journal Reviewer**: Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
-* **Conference PC**: ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
+* **Journal Reviewer**: 
+  - Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
+* **Conference PC**: 
+  - ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
 
 
 ## Publications
