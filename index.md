@@ -31,16 +31,16 @@ This is homepage of Shumin Deng
 
 ## Education
 * **Zhejiang University** 
-  - Ph.D. in Computer Science and Technology, 2017 - 
+  - Ph.D. in Computer Science and Technology, 2017 - 2022
   - Advisor: [Prof. Huajun Chen](http://mypage.zju.edu.cn/huajun)
 * **Xidian University**
   - B.E. in Software Engineering, 2013 - 2017
 
 ## Experience
-* **05/2018 - Now, Alibaba Group**
+* **05/2018 - 2022, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph
-* **08/2018 - Now, AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
+* **08/2018 - 2022, AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
   - Research Intern at Knowledge Engine Lab
   - Focus on: Knowledge Graph Construction and Completion, Neuro-symbolic Reasoning
 
