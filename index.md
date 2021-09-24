@@ -23,7 +23,7 @@ This is homepage of Shumin Deng
     </td>
     <td>
       <p><b>Research Interests: </b> <br> Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. </p>
-      <p><b>E-mail: </b>231sm@zju.edu.cn</p>
+      <p><b>E-mail: </b> 231sm@zju.edu.cn </p>
     </td>
   </tr>
 </table>
@@ -31,16 +31,16 @@ This is homepage of Shumin Deng
 
 ## Education
 * **Zhejiang University** 
-  - Ph.D. in Computer Science and Technology, 2017 - 2022
+  - Ph.D. in Computer Science and Technology, 2017 -- 2022
   - Advisor: [Prof. Huajun Chen](http://mypage.zju.edu.cn/huajun)
 * **Xidian University**
-  - B.E. in Software Engineering, 2013 - 2017
+  - B.E. in Software Engineering, 2013 -- 2017
 
 ## Experience
-* **05/2018 - 2022, Alibaba Group**
+* **05/2018 -- 2022, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph
-* **08/2018 - 2022, AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
+* **08/2018 -- 2022, AZFT Inc (Alibaba-Zhejiang University Joint Institute of Frontier Technologies)**
   - Research Intern at Knowledge Engine Lab
   - Focus on: Knowledge Graph Construction and Completion, Neuro-symbolic Reasoning
 
@@ -59,7 +59,7 @@ This is homepage of Shumin Deng
 (\*: equal contribution)
 
 ​	   <font color=blue size=4><b>2021</b></font>
-1. **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER](https://www.sciencedirect.com/science/article/pii/S266732582100159X)\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Juan Li, Evgeny Kharlamov. (**1st** student author)
+1. **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER](https://www.sciencedirect.com/science/article/pii/S266732582100159X)\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Zezhong Xu, Juan Li, Evgeny Kharlamov. (**1st** student author)
 2. **Robust Triple Extraction with Cascade Bidirectional Capsule Network** \[[PAPER]()\] <br>ESWA, Expert Systems with Applications, 2021. <br>Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**1st** student author)
 3. **Contrastive Information Extraction with Generative Transformer** \[[PAPER](https://ieeexplore.ieee.org/document/9537684)\] <br>TASLP, IEEE Transactions on Audio, Speech and Language Processing, 2021. <br>Ningyu Zhang\*, Hongbin Ye\*, ***Shumin Deng\****, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen. (**2nd** student author)
 4. **Knowledge Graph Embeddings for Dealing with Concept Drift in Machine Learning** \[[PAPER](https://www.sciencedirect.com/science/article/abs/pii/S1570826820300585)\] <br>JWS, Journal of Web Semantics, 2021. <br>Jiaoyan Chen, Freddy Lécué, Jeff Z. Pan, ***Shumin Deng***, Huajun Chen. (**1st** student author)
@@ -87,7 +87,7 @@ This is homepage of Shumin Deng
 26. **Deep Learning for Knowledge-Driven Ontology Stream Prediction**  \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5)\] <br>Communications in Computer and Information Science, 2018. <br>***Shumin Deng***, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen. 
 27. **CrowdGeoKG: Crowdsourced Geo-Knowledge Graph** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-10-7359-5_17)\] <br>Communications in Computer and Information Science, 2017. <br>Jiaoyan Chen, ***Shumin Deng***, Huajun Chen. 
 
-### Patents 
+### Patents
 1. **Event Classification Method Based on Binary Hyperspherical Prototype Network** (一种基于二分超球面原型网络的事件分类方法) \[[PDF]()\] <br>No.CN202010738919.6 <br>Huajun Chen, ***Shumin Deng***, Ningyu Zhang. (陈华钧, ***邓淑敏***, 张宁豫. **1st** student author) 
 2. **A Method of Triple Extraction Based on Contrastive Learning** (一种基于对比学习的实体关系三元组抽取方法) \[[PDF]()\] <br>No.CN202011443551.7 <br>Ningyu Zhang, Hongbin Ye, ***Shumin Deng***, Huajun Chen. (张宁豫, 叶宏彬, ***邓淑敏***, 陈华钧. **2nd** student author) 
 3. **Path Planning Method Based on Knowledge Graph and Pointer Network** (一种基于知识图谱和指针网络的路径规划方法) \[[PDF]()\] <br>No.CN202010071453.9 <br>Huajun Chen, Jiaojian Kang, ***Shumin Deng***. (陈华钧, 康矫健, ***邓淑敏***. **2nd** student author) 
