@@ -48,7 +48,7 @@ This is homepage of Shumin Deng
 * **Journal Reviewer**: 
   - Big Data Research, Frontiers of Computer Science, NSFC Fundmental Research (Secondary Reviewer), Journal of Computer Research and Development. 
 * **Conference PC**: 
-  - ACL2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics 2018, JIST2019, CCKS2021. 
+  - ACL2022/2021/2020, EMNLP2022/2021, AAAI2022/2021, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics2018, JIST2019, CCKS2021. 
 
 ## Awards
 * 2020 Outstanding Intern in Academic Cooperation of Alibaba Group
@@ -72,7 +72,7 @@ This is homepage of Shumin Deng
 11. **Document-level Relation Extraction as Semantic Segmentation** \[[PAPER](https://www.ijcai.org/proceedings/2021/551)\] <br>IJCAI, 2021. <br>Ningyu Zhang, Xiang Chen, Xin Xie, ***Shumin Deng***, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si, Huajun Chen. 
 12. **Contrastive Triple Extraction with Generative Transformer** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/17677)\] <br>AAAI, 2021. <br>Hongbin Ye, Ningyu Zhang, ***Shumin Deng***, Mosha Chen, Chuanqi Tan, Fei Huang, Huajun Chen. (**2nd** student author) 
 13. **Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules** \[[PAPER]()\] <br>IJCKG, 2021. <br> Wen Zhang, ***Shumin Deng***, Mingyang Chen, Liang Wang, Qiang Chen, Feiyu Xiong, Xiangwen Liu and Huajun Chen. (**1st** student author)
-14. **Normal vs. Adversarial: Salience-based Analysis of Adversarial Samples for Relation Extraction**\[[PAPER]()\] <br>IJCKG, 2021. <br> Luoqiu Li, Xiang Chen, Zhen Bi, Xin Xie, ***Shumin Deng***, Ningyu Zhang, Chuanqi Tan, Mosha Chen and Huajun Chen. 
+14. **Normal vs. Adversarial: Salience-based Analysis of Adversarial Samples for Relation Extraction** \[[PAPER]()\] <br>IJCKG, 2021. <br> Luoqiu Li, Xiang Chen, Zhen Bi, Xin Xie, ***Shumin Deng***, Ningyu Zhang, Chuanqi Tan, Mosha Chen and Huajun Chen. 
 15. **Text-Guided Legal Knowledge Graph Reasoning** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_3)\] <br>CCIS, 2021. <br> Luoqiu Li, Zhen Bi, Hongbin Ye, ***Shumin Deng***, Hui Chen, Huaixiao Tou. (**Corresponding** author)
 16. **On Robustness and Bias Analysis of BERT-Based Relation Extraction** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_4)\] <br>CCIS, 2021. <br> Luoqiu Li, Xiang Chen, Hongbin Ye, Zhen Bi, ***Shumin Deng***, Ningyu Zhang, Huajun Chen. <br><br><font color=blue size=4><b>2020</b></font>
 17. **Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction** \[[PAPER](https://aclanthology.org/2020.coling-main.563/)\] <br>COLING, 2020. <br>Haiyang Yu, Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**2nd** student author)
