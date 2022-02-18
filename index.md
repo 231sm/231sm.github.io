@@ -46,9 +46,9 @@ This is homepage of Shumin Deng
 
 ## Academic Service
 * **Journal Reviewer**: 
-  - Big Data Research, Frontiers of Computer Science, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development. 
+  - TASLP, Big Data Research, Frontiers of Computer Science, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development. 
 * **Conference PC**: 
-  - ACL2022/2021/2020, EMNLP2022/2021, AAAI2022/2021, WWW2022, NeurIPS2020 (Secondary Reviewer), IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics2018, JIST2019, CCKS2021. 
+  - ACL2022/2021/2020, EMNLP2022/2021, AAAI2022/2021, WWW2022, NeurIPS2020 (Secondary Reviewer), IJCAI2022, IJCAI2021 (Secondary Reviewer), ISWC2018, Semantics2018, JIST2019, CCKS2021. 
 
 ## Awards
 * 2020 Outstanding Intern in Academic Cooperation of Alibaba Group
@@ -59,12 +59,12 @@ This is homepage of Shumin Deng
 (\*: equal contribution)
 
 &ensp;&ensp;&ensp;&nbsp;&nbsp; <font color=blue size=4><b>2022</b></font>
-1. **Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners** \[[PAPER]()\] <br>ICLR, 2022. <br>Ningyu Zhang, Luoqiu Li, Xiang Chen, ***Shumin Deng***, Zhen Bi, Chuanqi Tan, Fei Huang, Huajun Chen. 
-2. **OntoProtein: Protein Pretraining With Gene Ontology Embedding** \[[PAPER]()\] <br>ICLR, 2022. <br>Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, ***Shumin Deng***, Qiang Zhang, Jiazhang Lian, Huajun Chen. 
-3. **OntoPrompt: Ontology-enhanced Prompt-tuning for Few-shot Learning** \[[PAPER]()\] <br>WWW, 2022. <br>Hongbin Ye, Ningyu Zhang, ***Shumin Deng***, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen and Huajun Chen. (**2nd** student author) 
-4. **KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction** \[[PAPER]()\] <br>WWW, 2022. <br>Xiang Chen, Ningyu Zhang, Xin Xie, ***Shumin Deng***, Yunzhi Yao, Chuanqi Tan, Fei Huang, Luo Si and Huajun Chen. 
-5. **Molecular Contrastive Learning with Chemical Element Knowledge Graph** \[[PAPER]()\] <br>AAAI, 2022. <br>Yin Fang, Qiang Zhang, Haihong Yang, Xiang Zhuang, ***Shumin Deng***, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen. 
-6. **Learning to Ask for Data-Efficient Event Argument Extraction** \[[PAPER]()\] <br>AAAI Student Abstract, 2022. <br>Hongbin Ye, Ningyu Zhang, Zhen Bi, ***Shumin Deng***, Chuanqi Tan, Hui Chen, Fei Huang and Huajun Chen. <br><br><font color=blue size=4><b>2021</b></font>
+1. **Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners** \[[PAPER](https://openreview.net/forum?id=ek9a0qIafW)\] <br>ICLR, 2022. <br>Ningyu Zhang, Luoqiu Li, Xiang Chen, ***Shumin Deng***, Zhen Bi, Chuanqi Tan, Fei Huang, Huajun Chen. 
+2. **OntoProtein: Protein Pretraining With Gene Ontology Embedding** \[[PAPER](https://openreview.net/forum?id=yfe1VMYAXa4)\] <br>ICLR, 2022. <br>Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, ***Shumin Deng***, Qiang Zhang, Jiazhang Lian, Huajun Chen. 
+3. **OntoPrompt: Ontology-enhanced Prompt-tuning for Few-shot Learning** \[[PAPER](https://arxiv.org/abs/2201.11332)\] <br>WWW, 2022. <br>Hongbin Ye, Ningyu Zhang, ***Shumin Deng***, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen and Huajun Chen. (**2nd** student author) 
+4. **KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction** \[[PAPER](https://arxiv.org/abs/2104.07650)\] <br>WWW, 2022. <br>Xiang Chen, Ningyu Zhang, Xin Xie, ***Shumin Deng***, Yunzhi Yao, Chuanqi Tan, Fei Huang, Luo Si and Huajun Chen. 
+5. **Molecular Contrastive Learning with Chemical Element Knowledge Graph** \[[PAPER](https://arxiv.org/abs/2112.00544)\] <br>AAAI, 2022. <br>Yin Fang, Qiang Zhang, Haihong Yang, Xiang Zhuang, ***Shumin Deng***, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen. 
+6. **Learning to Ask for Data-Efficient Event Argument Extraction** \[[PAPER](https://arxiv.org/abs/2110.00479)\] <br>AAAI Student Abstract, 2022. <br>Hongbin Ye, Ningyu Zhang, Zhen Bi, ***Shumin Deng***, Chuanqi Tan, Hui Chen, Fei Huang and Huajun Chen. <br><br><font color=blue size=4><b>2021</b></font>
 7. **Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning** \[[PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0950705121008467)\] <br>Knowledge-Based Systems, 2021. <br>***Shumin Deng***, Ningyu Zhang, Hui Chen, Chuanqi Tan, Fei Huang, Changliang Xu, Huajun Chen. 
 8. **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER](https://www.sciencedirect.com/science/article/pii/S266732582100159X)\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Zezhong Xu, Juan Li, Evgeny Kharlamov. (**1st** student author)
 9. **Robust Triple Extraction with Cascade Bidirectional Capsule Network** \[[PAPER](https://www.sciencedirect.com/science/article/abs/pii/S095741742101174X)\] <br>ESWA, Expert Systems with Applications, 2021. <br>Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**1st** student author)
@@ -107,4 +107,3 @@ This is homepage of Shumin Deng
 6. **Knowledge Graph-based Long-tail Recommendation Calculation Method** (一种基于知识图谱的长尾推荐计算方法) \[[PDF]()\] <br>No.CN202010844604.X <br>Huajun Chen, Bo Wen, ***Shumin Deng***. (陈华钧, 文博, ***邓淑敏***. **2nd** student author) 
 7. **Knowledge Triple Extraction Method in Low-resource Scene** (一种低资源场景下的知识三元组抽取方法) \[[PDF]()\] <br>No.CN202010789545.0 <br>Huajun Chen, Haiyang Yu, Ningyu Zhang, ***Shumin Deng***. (陈华钧, 余海阳, 张宁豫, ***邓淑敏***. **2nd** student author) 
 8. **A Method of Interpretable and Rule-generating Knowledge Graph Embedding** (一种可解释的可生成规则的知识图谱嵌入表示学习方法) \[[PDF]()\] <br>No.CN202011551586.2 <br>Huajun Chen, Wen Zhang, Mingyang Chen, ***Shumin Deng***. (陈华钧, 张文, 陈名杨, ***邓淑敏***.)
-
