@@ -17,3 +17,5 @@ I have obtained my bachelor degree from <a href='https://cs.xidian.edu.cn/'>Coll
 
 <p><b>Research Interests: </b> <br> Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. </p>
 <!-- <p><b>E-mail: </b> 231sm@zju.edu.cn, shumin@nus.edu.sg </p> -->
+
+<font color=RoyalBlue size=4><b>I am on job market for faculty positions!</b></font>
