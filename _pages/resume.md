@@ -8,7 +8,7 @@ author_profile: true
 <!-- ## Resume -->
 
 <!-- ## Education -->
-<font color=RoyalBlue size=6><b>Education</b></font>
+<font color=RoyalBlue size=4><b>Education</b></font>
 * **Zhejiang University** 
   - Ph.D. in Computer Science and Technology, 2017.9 -- 2022.6
   - Advisor: [Prof. Huajun Chen](http://mypage.zju.edu.cn/huajun)
@@ -16,7 +16,7 @@ author_profile: true
   - B.E. in Software Engineering, 2013.8 -- 2017.6
 
 <!-- ## Experience -->
-<font color=RoyalBlue size=6><b>Experience</b></font>
+<font color=RoyalBlue size=4><b>Experience</b></font>
 * **10/2022 -- Present, National University of Singapore**
   - Research Fellow at School of Computing, Computer Science Department
   - Focus on: Multi-modal Knowledge Graph, NLP, Scam Detection
@@ -28,7 +28,7 @@ author_profile: true
   - Focus on: Knowledge Graph Construction and Completion, Neuro-symbolic Reasoning
 
 <!-- ## Academic Service -->
-<font color=RoyalBlue size=6><b>Academic Service</b></font>
+<font color=RoyalBlue size=4><b>Academic Service</b></font>
 * **Conference Chair**:
   - Research Session (Information Extraction) Chair for EMNLP 2022
   <!-- - Research Session (AI for DB) Chair for ICDE 2023 -->
@@ -39,7 +39,7 @@ author_profile: true
   - NeurIPS'23, ICLR'23/22, ACL'23/22/21/20, EMNLP'22/21, EACL'23, AACL'22/21, WWW'22, AAAI'23/22/21, IJCAI'23/21, ISWC'18, Semantics'18, JIST'19, CCKS'21. 
 
 <!-- ## Awards -->
-<font color=RoyalBlue size=6><b>Awards</b></font>
+<font color=RoyalBlue size=4><b>Awards</b></font>
 * 2022 Outstanding Graduate of Zhejiang Province, China
 * 2020 Outstanding Intern in Academic Cooperation of Alibaba Group
 * First Prize of AZFT 2019 Outstanding Intern
