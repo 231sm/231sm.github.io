@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shumin Deng / Post Doc Research Fellow"
+title                    : "Shumin Deng | Homepage"
 title_separator          : "-"
 name                     : &name "Shumin Deng"
 description              : &description "Research Fellow at School of Computing, NUS"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "https://twitter.com/dsmall2apple1"
+  username               : &twitter "dsmall2apple1"
 facebook:
   username               :
   app_id                 :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/231sm"
+  github           : "231sm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shumin-deng-%E9%82%93%E6%B7%91%E6%95%8F-2a1b26142/"
-  orcid            : "https://orcid.org/0000-0002-4049-8478"
+  linkedin         : "shumin-deng-%E9%82%93%E6%B7%91%E6%95%8F-2a1b26142/"
+  orcid            : "0000-0002-4049-8478"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/dsmall2apple1"
+  twitter          : "dsmall2apple1"
   vine             :
   weibo            :
   xing             :
