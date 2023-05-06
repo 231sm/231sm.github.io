@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shumin Deng"
-  avatar           : "./images/Shumin.jpg"
+  avatar           : "Shumin.jpg"
   bio              : "Research Fellow at NUS"
   location         : "Singapore"
   employer         :
