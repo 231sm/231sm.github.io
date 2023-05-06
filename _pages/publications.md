@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+<!-- ## Publications -->
  
 (\*: equal contribution)
 
@@ -82,4 +82,6 @@ author_profile: true
 - **Location Based Link Prediction for Knowledge Graph** \[[PAPER](http://jcip.cipsc.org.cn/EN/abstract/abstract2552.shtml)\] <br>Journal of Chinese Information Processing, 2018. <br>Ningyu Zhang, Xi Chen, Jiaoyan Chen, ***Shumin Deng***, Wei Ruan, Chunming Wu, Huajun Chen. 
 - **Deep Learning for Knowledge-Driven Ontology Stream Prediction**  \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_5)\] <br>Communications in Computer and Information Science, 2018. <br>***Shumin Deng***, Jeff Z. Pan, Jiaoyan Chen, and Huajun Chen. 
 - **CrowdGeoKG: Crowdsourced Geo-Knowledge Graph** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-10-7359-5_17)\] <br>Communications in Computer and Information Science, 2017. <br>Jiaoyan Chen, ***Shumin Deng***, Huajun Chen. 
+
+
 
