@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+<!-- ## About Me -->
 
 Hi! I am Shumin Deng. 
 I have been working as a Research Fellow in the <a href='https://www.comp.nus.edu.sg/cs/'>Department of Computer Science, School of Computing (SoC), National University of Singapore</a> at present, advised by <a href='https://bhooi.github.io/'>Bryan Hooi</a>. 

@@ -10,7 +10,7 @@ author_profile: true
 (\*: equal contribution)
 
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2023</b></font>
+<font color=RoyalBlue size=6><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2023</b></font>
 
 - **SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres** \[[PAPER]()\] <br>ACL 2023. <br>***Shumin Deng***, Shengyu Mao, Ningyu Zhang, Bryan Hooi. 
 <!-- - **Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ACL 2023, Simple and Efficient NLP (SustaiNLP) Workshop. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi.  -->
@@ -22,7 +22,7 @@ author_profile: true
 - **Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction** \[[PAPER](https://arxiv.org/abs/2210.10709)\] <br>SIGIR 2023. <br>Yunzhi Yao, Shengyu Mao, Xiang Chen, ***Shumin Deng***, Ningyu Zhang, Xi Chen, Huajun Chen. 
  
 
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2022</b></font>
+<font color=RoyalBlue size=6><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2022</b></font>
 
 - **Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning** \[[PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0950705121008467)\] <br>KBS, Knowledge-Based Systems, 2022. <br>***Shumin Deng***, Ningyu Zhang, Hui Chen, Chuanqi Tan, Fei Huang, Changliang Xu, Huajun Chen. 
 - **LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting** \[[PAPER](https://aclanthology.org/2022.coling-1.209/)\] <br>COLING, 2022. <br>Xiang Chen, Lei Li, ***Shumin Deng***, Chuanqi Tan, Changliang Xu, Fei Huang, Luo Si, Huajun Chen, Ningyu Zhang. 
@@ -40,7 +40,7 @@ author_profile: true
 - **基于知识协同微调的低资源知识图谱补全方法** \[[PAPER](http://www.jos.org.cn/jos/article/abstract/6628)\] <br>软件学报, 2022. <br>张宁豫, 谢辛, 陈想, ***邓淑敏***, 叶宏彬, 陈华钧. 
 - **OpenConcepts: 一个开放的细粒度中文概念知识图谱** \[[PAPER](https://hub.baai.ac.cn/view/13222)\] <br>中文信息学报, 2022. <br>叶宏彬, 张宁豫, ***邓淑敏***, 毕祯, 陈想, 陈华钧. 
 
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2021</b></font>
+<font color=RoyalBlue size=6><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2021</b></font>
 
 - **Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning and Inconsistency Checking** \[[PAPER](https://www.sciencedirect.com/science/article/pii/S266732582100159X)\] <br>NSFC Fundamental Research, 2021. <br>Huajun Chen, ***Shumin Deng***, Wen Zhang, Zezhong Xu, Juan Li, Evgeny Kharlamov. (**1st** student author)
 - **Robust Triple Extraction with Cascade Bidirectional Capsule Network** \[[PAPER](https://www.sciencedirect.com/science/article/abs/pii/S095741742101174X)\] <br>ESWA, Expert Systems with Applications, 2021. <br>Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**1st** student author)
@@ -60,7 +60,7 @@ author_profile: true
 -  **Disentangled Contrastive Learning for Learning Robust Textual Representations** \[[PAPER](https://link.springer.com/chapter/10.1007/978-3-030-93049-3_18)\] <br>CICAI, 2021. <br> Xiang Chen, Xin Xie, Zhen Bi, Hongbin Ye, ***Shumin Deng***, Ningyu Zhang, Huajun Chen. 
 
  
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2020</b></font>
+<font color=RoyalBlue size=6><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2020</b></font>
 
 - **Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction** \[[PAPER](https://aclanthology.org/2020.coling-main.563/)\] <br>COLING, 2020. <br>Haiyang Yu, Ningyu Zhang, ***Shumin Deng***, Hongbin Ye, Wei Zhang, Huajun Chen. (**2nd** student author)
 - **Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention** \[[PAPER](https://aclanthology.org/2020.findings-emnlp.2/)\] <br>EMNLP, 2020. <br>Ningyu Zhang, ***Shumin Deng***, Juan Li, Xi Chen, Wei Zhang, Huajun Chen. (**1st** student author)
@@ -72,7 +72,7 @@ author_profile: true
 - **Knowledge-Enhanced Collaborative Meta Learner for Long-Tail Recommendation** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_26)\] <br>Communications in Computer and Information Science, 2020. <br>Bo Wen, ***Shumin Deng***, Huajun Chen. 
 
 
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2019 and Before</b></font> 
+<font color=RoyalBlue size=6><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2019 and Before</b></font> 
 
 - **XTransE: Explainable Knowledge Graph Embedding for Link Prediction with Lifestyles in e-Commerce** \[[PAPER](https://link.springer.com/chapter/10.1007/978-981-15-3412-6_8)\] <br>JIST, 2019. <br>Wen Zhang, ***Shumin Deng***, Han Wang, Qiang Chen, Wei Zhang, Huajun Chen. 
 - **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks** \[[PAPER](https://www.aclweb.org/anthology/N19-1306/)\] <br>NAACL, 2019. <br>Ningyu Zhang, ***Shumin Deng***, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen. 
