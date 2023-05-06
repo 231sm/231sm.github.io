@@ -16,4 +16,4 @@ I have obtained my Ph.D. degree at <a href='http://www.cs.zju.edu.cn/'>School of
 I have obtained my bachelor degree from <a href='https://cs.xidian.edu.cn/'>College of Software Engineering, Xidian University</a>.
 
 <p><b>Research Interests: </b> <br> Natural Language Processing, Knowledge Graph, Information Extraction, Neuro Symbolic Reasoning. </p>
-<p><b>E-mail: </b> 231sm@zju.edu.cn, shumin@nus.edu.sg </p>
+<!-- <p><b>E-mail: </b> 231sm@zju.edu.cn, shumin@nus.edu.sg </p> -->
