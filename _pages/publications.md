@@ -12,10 +12,10 @@ author_profile: true
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2023</b></font>
 
-- **SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres** \[[PAPER]()\] <br>ACL 2023. <br>***Shumin Deng***, Shengyu Mao, Ningyu Zhang, Bryan Hooi. 
+- **SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres** \[[PAPER](https://arxiv.org/abs/2305.13617)\] <br>ACL 2023. <br>***Shumin Deng***, Shengyu Mao, Ningyu Zhang, Bryan Hooi. 
 <!-- - **Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ACL 2023, Simple and Efficient NLP (SustaiNLP) Workshop. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi.  -->
 - **Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities** \[[PAPER]()\] \[[SLIDES]()\] \[[WEBSITE]()\] <br>IJCAI 2023, Tutorial. <br>Ningyu Zhang, Meng Wang, Tianxing Wu, ***Shumin Deng\#*** (Corresponding Author). 
-- **LOGEN: Few-shot Logical Knowledge-Conditioned Text Generation with Self-training** \[[PAPER](https://arxiv.org/abs/2112.01404)\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2023. <br>***Shumin Deng***, Ningyu Zhang, Jiacheng Yang, Hongbin Ye, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen. 
+- **LOGEN: Few-shot Logical Knowledge-Conditioned Text Generation with Self-training** \[[PAPER](https://ieeexplore.ieee.org/document/10122776)\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2023. <br>***Shumin Deng***, Ningyu Zhang, Jiacheng Yang, Hongbin Ye, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen. 
 - **Construction and Applications of Billion-Scale Pre-trained Multimodal Business Knowledge Graph** \[[PAPER](https://arxiv.org/abs/2209.15214)\] <br>ICDE 2023. <br>***Shumin Deng***, Chengming Wang, Zhoubo Li, Ningyu Zhang, Zelin Dai, Hehong Chen, Feiyu Xiong, Ming Yan, Qiang Chen, Mosha Chen, Jiaoyan Chen, Jeff Z. Pan, Bryan Hooi, Huajun Chen. 
 - **Reasoning with Language Model Prompting: A Survey** \[[PAPER](https://arxiv.org/abs/2212.09597)\] <br>ACL 2023. <br>Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, ***Shumin Deng***, Chuanqi Tan, Fei Huang, Huajun Chen. 
 - **Multimodal Analogical Reasoning Over Knowledge Graphs** \[[PAPER](https://openreview.net/forum?id=NRHajbzg8y0P)\] <br>ICLR 2023. <br>Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, ***Shumin Deng***, Huajun Chen. 
