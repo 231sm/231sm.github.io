@@ -36,7 +36,8 @@ author_profile: true
 * **Journal Reviewer**: 
   - TASLP (ACM/IEEE Transactions on Audio, Speech and Language Processing), TALLIP (ACM Transactions on Asian and Low-Resource Language Information Processing), WWWJ (World Wide Web Journal), Expert Systems With Applications, Neurocomputing, Knowledge-Based Systems, Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence. 
 * **Conference PC**: 
-  - NeurIPS'23, ICLR'23/22, ACL'23/22/21/20, EMNLP'22/21, EACL'23, AACL'22/21, WWW'22, AAAI'23/22/21, IJCAI'23/21, ISWC'18, Semantics'18, JIST'19, CCKS'21. 
+  - NeurIPS, ICLR, ACL, EMNLP, EACL, AACL, WWW, AAAI, IJCAI, ISWC, Semantics, JIST/IJCKG, CCKS
+  <!-- - NeurIPS'23, ICLR'23/22, ACL'23/22/21/20, EMNLP'23/22/21, EACL'23, AACL'23/22/21, WWW'22, AAAI'23/22/21, IJCAI'23/21, ISWC'18, Semantics'18, JIST'19, CCKS'21.  -->
 
 <!-- ## Awards -->
 <font color=RoyalBlue size=4><b>Awards</b></font>
