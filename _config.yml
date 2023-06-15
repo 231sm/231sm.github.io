@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Homepage|Shumin"
 title_separator          : "-"
 name                     : &name "Shumin Deng"
 description              : &description "Research Fellow at School of Computing, NUS"
@@ -263,14 +263,14 @@ plugins:
   - jekyll-paginate
   # - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   # - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
 
 
