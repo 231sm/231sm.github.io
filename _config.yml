@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage" # Shumin Deng
+title                    : "Homepage of Shumin Deng"
 title_separator          : "-"
 name                     : &name "Shumin Deng"
 description              : &description "Research Fellow at School of Computing, NUS"

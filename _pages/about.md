@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage" # "About"
+# title: "Homepage" # "About"
 excerpt: "About me"
 # permalink: /about/
 author_profile: true
