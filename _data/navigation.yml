@@ -3,7 +3,9 @@ main:
   # - title: "About"
   #   url: /about/
 
-  - title: "Resume"
+  # - title: "Resume"
+  #   url: /resume/
+  - title: "Bio"
     url: /resume/
 
   - title: "Publications"
