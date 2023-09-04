@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Resume"
+title: "Bio"
 permalink: /resume/
 author_profile: true
 ---
 
-<!-- ## Resume -->
+<!-- ## Bio -->
 
 <!-- ## Education -->
 <font color=RoyalBlue size=4><b>Education</b></font>
@@ -19,7 +19,7 @@ author_profile: true
 <font color=RoyalBlue size=4><b>Experience</b></font>
 * **10/2022 -- Present, National University of Singapore**
   - Research Fellow at School of Computing, Computer Science Department
-  - Focus on: Multi-modal Knowledge Graph, NLP, Scam Detection
+  - Focus on: Multimodal Knowledge Graph, NLP, Scam Detection
 * **05/2018 -- 06/2022, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph
