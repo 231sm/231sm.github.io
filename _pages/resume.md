@@ -34,7 +34,7 @@ author_profile: true
   <!-- - Research Session (AI for DB) Chair for ICDE 2023 -->
   - Publication Chair for CoNLL 2023 (will be collocated with EMNLP 2023)
 * **Journal Reviewer**: 
-  - TASLP (ACM/IEEE Transactions on Audio, Speech and Language Processing), TALLIP (ACM Transactions on Asian and Low-Resource Language Information Processing), WWWJ (World Wide Web Journal), Expert Systems With Applications, Neurocomputing, Knowledge-Based Systems, Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence. 
+  - TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence), TASLP (ACM/IEEE Transactions on Audio, Speech and Language Processing), TALLIP (ACM Transactions on Asian and Low-Resource Language Information Processing), WWWJ (World Wide Web Journal), Expert Systems With Applications, Neurocomputing, Knowledge-Based Systems, Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence. 
 * **Conference PC**: 
   - NeurIPS, ICLR, ACL, EMNLP, EACL, AACL, WWW, AAAI, IJCAI, CIKM, ISWC, Semantics, JIST/IJCKG, CCKS. 
   <!-- - NeurIPS'23, ICLR'23/22, ACL'23/22/21/20, EMNLP'23/22/21, EACL'23, AACL'23/22/21, WWW'22, AAAI'23/22/21, IJCAI'23/21, ISWC'18, Semantics'18, JIST'19, CCKS'21.  -->
