@@ -31,8 +31,9 @@ author_profile: true
 <font color=RoyalBlue size=4><b>Academic Service</b></font>
 * **Conference Chair**:
   - Research Session (Information Extraction) Chair for EMNLP 2022
-  <!-- - Research Session (AI for DB) Chair for ICDE 2023 -->
-  - Publication Chair for CoNLL 2023 (will be collocated with EMNLP 2023)
+  - Research Session (Question Answering) Chair for AACL 2023
+  - Research Session (AI for DB) Chair for ICDE 2023
+  - Publication Chair for CoNLL 2023 (collocated with EMNLP 2023)
 * **Journal Reviewer**: 
   - TPAMI, TASLP, TALLIP, WWWJ, ESWA, Neurocomputing, Knowledge-Based Systems, Big Data Research, NSFC Fundamental Research (Secondary Reviewer), Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, etc. 
   <!-- *TPAMI* (IEEE Transactions on Pattern Analysis and Machine Intelligence), *TASLP* (ACM/IEEE Transactions on Audio, Speech and Language Processing), *TALLIP* (ACM Transactions on Asian and Low-Resource Language Information Processing), *WWWJ* (World Wide Web Journal), *ESWA* (Expert Systems With Applications), *Neurocomputing*, *KBS* (Knowledge-Based Systems), Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence.  -->
