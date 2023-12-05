@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Lectures
+- **Knowledge Editing for Large Language Models** \[[SLIDES]()\] \[[WEBSITE]()\] <br>COLING 2024, Tutorial. <br>Ningyu Zhang, Yunzhi Yao, ***Shumin Deng\#***. (**Corresponding** Author)
 - **Knowledge Editing for Large Language Models** \[[SLIDES]()\] \[[WEBSITE]()\] <br>AAAI 2024, Tutorial. <br>Ningyu Zhang, Jiachen Gu, Yunzhi Yao, Zhen Bi, ***Shumin Deng\#***. (**Corresponding** Author)
 - **Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities** \[[SLIDES](https://openkg-tutorial.github.io/IJCAI2023@Tutorial_OpenKG_LLM.pdf)\] \[[WEBSITE](https://openkg-tutorial.github.io/)\] <br>IJCAI 2023, Tutorial. <br>Ningyu Zhang, Meng Wang, Tianxing Wu, ***Shumin Deng\#***. (**Corresponding** Author)
 - **Editing Large Language Models** \[[PAPER](https://arxiv.org/abs/2305.13172)\] \[[SLIDES](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view)\] \[[Video](https://us06web.zoom.us/rec/play/mxbsOBD9qtXAONr2J5mkbwXsOQmjYZ45JBKpO_ORbWmMIvgF9-OWVqCj2ZVts7W9oZtctLfoRoVcFPVK.vTWDvH3Mk-OJsIcF?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FP2KfpjtjZNi18nWep1LntDFqGQMrRE0ellEc_SqjsrgAiDIpHjDel6qmt1ltIZK1.oKqOjHiM_Ez0h35k)\] \[[WEBSITE](https://github.com/zjunlp/ModelEditingPapers)\] <br>AACL 2023, Tutorial. <br>Ningyu Zhang, Yunzhi Yao, ***Shumin Deng\#***. (**Corresponding** Author)
