@@ -10,6 +10,15 @@ author_profile: true
 (**\***: Equal Contribution; &nbsp; **\#**: Corresponding Author)
 
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
+<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
+
+- **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View** \[[PAPER](https://arxiv.org/abs/2310.02124)\] <br>ArXiv, 2024. <br>Jintian Zhang, Xin Xu, ***Shumin Deng\#***. (**Corresponding** Author)
+- **Towards A Unified View of Answer Calibration for Multi-Step Reasoning** \[[PAPER](https://arxiv.org/abs/2311.09101)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi.  
+- **Information Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Yubo Ma, Ningyu Zhang, Yixin Cao, Bryan Hooi. 
+- **When Do Program-of-Thoughts Work for Reasoning?** \[[PAPER](https://arxiv.org/abs/2308.15452)\] <br>AAAI 2024. <br>Zhen Bi, Ningyu Zhang, Yinuo Jiang, ***Shumin Deng***, Guozhou Zheng, Huajun Chen. 
+
+
+<!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2023</b></font>
 
 - **SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres** \[[PAPER](https://aclanthology.org/2023.acl-long.21.pdf)\] <br>ACL 2023. <br>***Shumin Deng***, Shengyu Mao, Ningyu Zhang, Bryan Hooi. 
