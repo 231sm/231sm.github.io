@@ -15,7 +15,9 @@ author_profile: true
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View** \[[PAPER](https://arxiv.org/abs/2310.02124)\] <br>ArXiv, 2024. <br>Jintian Zhang, Xin Xu, ***Shumin Deng\#***. (**Corresponding** Author)
 - **Towards A Unified View of Answer Calibration for Multi-Step Reasoning** \[[PAPER](https://arxiv.org/abs/2311.09101)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi.  
 - **Information Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Yubo Ma, Ningyu Zhang, Yixin Cao, Bryan Hooi. 
+- **A Comprehensive Study of Knowledge Editing for Large Language Models** \[[PAPER](https://arxiv.org/abs/2401.01286)\] <br>ArXiv, 2024. <br>Ningyu Zhang\*, Yunzhi Yao\*, Bozhong Tian\*, Peng Wang\*, ***Shumin Deng\****, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jiachen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. 
 - **When Do Program-of-Thoughts Work for Reasoning?** \[[PAPER](https://arxiv.org/abs/2308.15452)\] <br>AAAI 2024. <br>Zhen Bi, Ningyu Zhang, Yinuo Jiang, ***Shumin Deng***, Guozhou Zheng, Huajun Chen. 
+
 
 
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
