@@ -19,7 +19,7 @@ author_profile: true
 <font color=RoyalBlue size=4><b>Experience</b></font>
 * **10/2022 -- Present, National University of Singapore**
   - Research Fellow at School of Computing, Computer Science Department
-  - Focus on: LM Reasoning, Multi-Agent Collaboration, Model Editing, NLP, Multimodal Knowledge Graph, Scam/Phishing Detection
+  - Focus on: LLM-Based Reasoning and Planning, Multi-Agent Collaboration, Human-AI Interaction, Model Editing, Multimodal Knowledge Graph, Scam/Phishing Detection
 * **05/2018 -- 06/2022, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph

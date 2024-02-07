@@ -17,6 +17,7 @@ author_profile: true
 - **Information Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Yubo Ma, Ningyu Zhang, Yixin Cao, Bryan Hooi. 
 - **A Comprehensive Study of Knowledge Editing for Large Language Models** \[[PAPER](https://arxiv.org/abs/2401.01286)\] <br>ArXiv, 2024. <br>Ningyu Zhang\*, Yunzhi Yao\*, Bozhong Tian\*, Peng Wang\*, ***Shumin Deng\****, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jiachen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. 
 - **When Do Program-of-Thoughts Work for Reasoning?** \[[PAPER](https://arxiv.org/abs/2308.15452)\] <br>AAAI 2024. <br>Zhen Bi, Ningyu Zhang, Yinuo Jiang, ***Shumin Deng***, Guozhou Zheng, Huajun Chen. 
+- **Sequence Labeling as Non-autoregressive Dual-Query Set Generation** \[[PAPER](https://ieeexplore.ieee.org/document/10420440)\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2024. <br>Xiang Chen, Lei Li, Yuqi Zhu, ***Shumin Deng***, Chuanqi Tan, Fei Huang, Luo Si, Ningyu Zhang, Huajun Chen. 
 
 
 
