@@ -34,12 +34,13 @@ author_profile: true
   - Research Session (Question Answering) Chair for AACL 2023
   - Research Session (AI for DB) Chair for ICDE 2023
   - Publication Chair for CoNLL 2023 (collocated with EMNLP 2023)
+  - Area Chair for CCL 2024
 * **Journal Reviewer**: 
   - TPAMI, TASLP, TALLIP, WWWJ, ESWA, Neurocomputing, Knowledge-Based Systems, Big Data Research, NSFC Fundamental Research (Secondary Reviewer), Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, etc. 
   <!-- *TPAMI* (IEEE Transactions on Pattern Analysis and Machine Intelligence), *TASLP* (ACM/IEEE Transactions on Audio, Speech and Language Processing), *TALLIP* (ACM Transactions on Asian and Low-Resource Language Information Processing), *WWWJ* (World Wide Web Journal), *ESWA* (Expert Systems With Applications), *Neurocomputing*, *KBS* (Knowledge-Based Systems), Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence.  -->
 * **Conference PC**: 
-  - NeurIPS, ICLR, ICML, ARR, ACL, EMNLP, NAACL, EACL, AACL, WWW, AAAI, IJCAI, CIKM, ISWC, Semantics, JIST/IJCKG, CCKS. 
-  <!-- - NeurIPS'23, ICLR'23/22, ACL'23/22/21/20, EMNLP'23/22/21, EACL'23, AACL'23/22/21, WWW'22, AAAI'23/22/21, IJCAI'23/21, ISWC'18, Semantics'18, JIST'19, CCKS'21.  -->
+  - NeurIPS, ICLR, ICML, COLM, ARR, ACL, EMNLP, NAACL, EACL, AACL, WWW, AAAI, IJCAI, CIKM, ISWC, Semantics, JIST/IJCKG, CCKS, CCL. 
+  <!-- - NeurIPS'23, ICLR'24/23/22, ICML'24, ACL'24/23/22/21/20, EMNLP'23/22/21, EACL'24/23, AACL'23/22/21, WWW'22, AAAI'24/23/22/21, IJCAI'24/23/21, ISWC'18/24, Semantics'18, JIST'19, CCKS'21.  -->
 
 <!-- ## Awards -->
 <font color=RoyalBlue size=4><b>Awards</b></font>
