@@ -13,7 +13,7 @@ author_profile: true
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
 
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View** \[[PAPER](https://arxiv.org/abs/2310.02124)\] <br>ACL 2024; ICLR 2024 Workshop on LLM Agents. <br>Jintian Zhang, Xin Xu, Ningyu Zhang\#, Ruibo Liu, Bryan Hooi, ***Shumin Deng\#***. 
-- **Towards A Unified View of Answer Calibration for Multi-Step Reasoning** \[[PAPER](https://arxiv.org/abs/2311.09101)\] <br>ArXiv, 2024. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi. 
+- **Towards A Unified View of Answer Calibration for Multi-Step Reasoning** \[[PAPER](https://arxiv.org/abs/2311.09101)\] <br>NLRSE@ACL2024. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi. 
 - **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>ArXiv, 2024. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://arxiv.org/abs/2403.03101)\] <br>ArXiv, 2024. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **Agent Planning with World Knowledge Model** \[[PAPER](https://arxiv.org/abs/2405.14205)\] <br>ArXiv, 2024. <br>Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, ***Shumin Deng***, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. 
