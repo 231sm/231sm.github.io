@@ -29,6 +29,8 @@ author_profile: true
 
 <!-- ## Academic Service -->
 <font color=RoyalBlue size=4><b>Academic Service</b></font>
+* **Journal Editor**: 
+  - Associate Editor of TASLP
 * **Conference Chair**:
   - Research Session (Information Extraction) Chair for EMNLP 2022
   - Research Session (Question Answering) Chair for AACL 2023
