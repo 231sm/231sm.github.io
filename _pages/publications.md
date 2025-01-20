@@ -10,11 +10,16 @@ author_profile: true
 (**\***: Equal Contribution; &nbsp; **\#**: Corresponding Author)
 
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
+<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font>
+- **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
+- **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2412.09057)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
+
+
+
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
 
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View** \[[PAPER](https://arxiv.org/abs/2310.02124)\] <br>ACL 2024; ICLR 2024 Workshop on LLM Agents. <br>Jintian Zhang, Xin Xu, Ningyu Zhang\#, Ruibo Liu, Bryan Hooi, ***Shumin Deng\#***. 
 - **Towards A Unified View of Answer Calibration for Multi-Step Reasoning** \[[PAPER](https://arxiv.org/abs/2311.09101)\] <br>Natural Language Reasoning and Structured Explanations Workshop (NLRSE) at ACL 2024. <br>***Shumin Deng***, Ningyu Zhang, Nay Oo, Bryan Hooi. 
-- **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://arxiv.org/abs/2403.03101)\] <br>Workshop on Knowledge-Augmented Methods for Natural Language Processing (KnowledgeNLP) at ACL 2024 **(Best Paper Award)**. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **Agent Planning with World Knowledge Model** \[[PAPER](https://arxiv.org/abs/2405.14205)\] <br>NeurIPS 2024. <br>Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, ***Shumin Deng***, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. 
 - **Information Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ICKG 2024. <br>***Shumin Deng***, Yubo Ma, Ningyu Zhang, Yixin Cao, Bryan Hooi. 
@@ -23,7 +28,6 @@ author_profile: true
 - **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2024. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
 - **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://arxiv.org/abs/2410.11779)\] <br>ArXiv, 2024. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
 - **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2024. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
-- **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2412.09057)\] <br>ArXiv, 2024. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
 - **A Comprehensive Study of Knowledge Editing for Large Language Models** \[[PAPER](https://arxiv.org/abs/2401.01286)\] <br>ArXiv, 2024. <br>Ningyu Zhang\*, Yunzhi Yao\*, Bozhong Tian\*, Peng Wang\*, ***Shumin Deng\****, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jiachen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. 
 - **Detoxifying Large Language Models via Knowledge Editing** \[[PAPER](https://arxiv.org/abs/2403.14472)\] <br>ACL 2024. <br>Mengru Wang, Ziwen Xu, Ningyu Zhang, Zekun Xi, ***Shumin Deng***, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen. 
 - **Editing Conceptual Knowledge for Large Language Models** \[[PAPER](https://arxiv.org/abs/2403.06259)\] <br>EMNLP 2024, Findings. <br>Xiaohan Wang, Shengyu Mao, ***Shumin Deng***, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang. 
