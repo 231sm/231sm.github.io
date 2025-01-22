@@ -13,7 +13,9 @@ author_profile: true
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font>
 - **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
 - **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2412.09057)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
-
+- **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://arxiv.org/abs/2410.11779)\] <br>ICLR 2024. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
+- **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2025. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
+- **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
 
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
@@ -25,9 +27,6 @@ author_profile: true
 - **Information Extraction in Low-Resource Scenarios: Survey and Perspective** \[[PAPER](https://arxiv.org/abs/2202.08063)\] <br>ICKG 2024. <br>***Shumin Deng***, Yubo Ma, Ningyu Zhang, Yixin Cao, Bryan Hooi. 
 - **LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities** \[[PAPER](https://arxiv.org/abs/2305.13168)\] <br>WWWJ, World Wide Web Journal, 2024. <br>Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 - **KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2403.02253)\] <br>USENIX Security 2024. <br>Yuexin Li, Chengyu Huang, ***Shumin Deng***, Mei Lin Lock, Tri Cao, Nay Oo, Bryan Hooi, Hoon Wei Lim. 
-- **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2024. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
-- **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://arxiv.org/abs/2410.11779)\] <br>ArXiv, 2024. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
-- **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2024. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
 - **A Comprehensive Study of Knowledge Editing for Large Language Models** \[[PAPER](https://arxiv.org/abs/2401.01286)\] <br>ArXiv, 2024. <br>Ningyu Zhang\*, Yunzhi Yao\*, Bozhong Tian\*, Peng Wang\*, ***Shumin Deng\****, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jiachen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. 
 - **Detoxifying Large Language Models via Knowledge Editing** \[[PAPER](https://arxiv.org/abs/2403.14472)\] <br>ACL 2024. <br>Mengru Wang, Ziwen Xu, Ningyu Zhang, Zekun Xi, ***Shumin Deng***, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen. 
 - **Editing Conceptual Knowledge for Large Language Models** \[[PAPER](https://arxiv.org/abs/2403.06259)\] <br>EMNLP 2024, Findings. <br>Xiaohan Wang, Shengyu Mao, ***Shumin Deng***, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang. 
