@@ -12,9 +12,9 @@ author_profile: true
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font>
 - **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
+- **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://arxiv.org/abs/2403.03101)\] <br>NAACL 2025, Findings; Workshop on Knowledge-Augmented Methods for Natural Language Processing (KnowledgeNLP) at ACL 2024 **(Best Paper Award)**. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2412.09057)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
 - **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://arxiv.org/abs/2410.11779)\] <br>ICLR 2025. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
-- **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://arxiv.org/abs/2403.03101)\] <br>NAACL 2025, Findings; Workshop on Knowledge-Augmented Methods for Natural Language Processing (KnowledgeNLP) at ACL 2024 **(Best Paper Award)**. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2025. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
 - **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
 
