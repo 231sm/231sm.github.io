@@ -10,11 +10,15 @@ author_profile: true
 (**\***: Equal Contribution; &nbsp; **\#**: Corresponding Author)
 
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
-<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font>
+<font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font> 
+- **From Certainty to Uncertainty in Knowledge: Exploring Modeling, Extraction, Representation, and Applications** \[[PAPER](https://ebooks.iospress.nl/volumearticle/72301)\] <br>A Chapter of the [*Handbook on Neurosymbolic AI and Knowledge Graphs*](https://ebooks.iospress.nl/volume/handbook-on-neurosymbolic-ai-and-knowledge-graphs) <br>***Shumin Deng***, Ningyu Zhang, Tianxing Wu. 
 - **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://arxiv.org/abs/2405.15329)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://arxiv.org/abs/2403.03101)\] <br>NAACL 2025, Findings; Workshop on Knowledge-Augmented Methods for Natural Language Processing (KnowledgeNLP) at ACL 2024 **(Best Paper Award)**. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://arxiv.org/abs/2412.09057)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
 - **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://arxiv.org/abs/2410.11779)\] <br>ICLR 2025. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
+- **ReLearn: Unlearning via Learning for Large Language Models** \[[PAPER](https://arxiv.org/abs/2502.11190)\] <br>ArXiv, 2025. <br>Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, ***Shumin Deng***, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang. 
+- **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-training** \[[PAPER](https://arxiv.org/abs/2502.11196)\] <br>ArXiv, 2025. <br>Yixin Ou, Yunzhi Yao, Ningyu Zhang, Hui Jin, Jiacheng Sun, ***Shumin Deng***, Zhenguo Li, Huajun Chen.
+- **CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners** \[[PAPER](https://arxiv.org/abs/2503.16356)\] <br>ArXiv, 2025. <br>Yunzhi Yao, Jizhan Fang, Jia-Chen Gu, Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Nanyun Peng. 
 - **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2025. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
 - **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
 
