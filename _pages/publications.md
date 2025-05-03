@@ -20,7 +20,7 @@ author_profile: true
 - **How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-training** \[[PAPER](https://arxiv.org/abs/2502.11196)\] <br>ArXiv, 2025. <br>Yixin Ou, Yunzhi Yao, Ningyu Zhang, Hui Jin, Jiacheng Sun, ***Shumin Deng***, Zhenguo Li, Huajun Chen.
 - **CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners** \[[PAPER](https://arxiv.org/abs/2503.16356)\] <br>ArXiv, 2025. <br>Yunzhi Yao, Jizhan Fang, Jia-Chen Gu, Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Nanyun Peng. 
 - **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>ArXiv, 2025. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, ***Shumin Deng***, Huajun Chen. 
-- **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ArXiv, 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Bryan Hooi. 
+- **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://arxiv.org/abs/2410.02832)\] <br>ICML 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Yingwei Ma, Jiaheng Zhang, Bryan Hooi. 
 
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
