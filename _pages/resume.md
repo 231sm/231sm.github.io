@@ -43,7 +43,7 @@ author_profile: true
   - Research Session (Question Answering) Chair for AACL 2023
   - Research Session (Information Extraction) Chair for EMNLP 2022
 * **Journal Reviewer**: 
-  - TPAMI, ACM Computing Surveys, TKDE, TOIS, TBD, TASLP, TALLIP, TNNLS, SCIENCE CHINA Information Sciences, Journal of Software, PR, WWWJ, ESWA, Neurocomputing, Knowledge-Based Systems, Big Data Research, NSFC Fundamental Research (Secondary Reviewer), Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, etc. 
+  - TPAMI, ACM Computing Surveys, TKDE, TOIS, TBD, TASLP, TALLIP, TNNLS, TOMMSCIENCE CHINA Information Sciences, Journal of Software, PR, WWWJ, ESWA, Neurocomputing, Knowledge-Based Systems, Big Data Research, NSFC Fundamental Research (Secondary Reviewer), Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, etc. 
   <!-- *TPAMI* (IEEE Transactions on Pattern Analysis and Machine Intelligence), *TASLP* (ACM/IEEE Transactions on Audio, Speech and Language Processing), *TALLIP* (ACM Transactions on Asian and Low-Resource Language Information Processing), *WWWJ* (World Wide Web Journal), *ESWA* (Expert Systems With Applications), *Neurocomputing*, *KBS* (Knowledge-Based Systems), Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence, International Journal Of Human-computer Interaction.  -->
 * **Conference PC**: 
   - NeurIPS, ICLR, ICML, COLM, ARR, ACL, EMNLP, NAACL, EACL, AACL, AISTATS, WWW, AAAI, IJCAI, CIKM, ISWC, Semantics, JIST/IJCKG, CCKS, CCL, NLPCC. 
