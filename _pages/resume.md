@@ -33,6 +33,7 @@ author_profile: true
   - Associate Editor of TASLP
 * **Conference Chair**:
   - Senior Area Chair for EMNLP 2025
+  - Senior Program Committee Member for CIKM 2025
   - Area Chair for NeurIPS 2025
   - Area Chair for ACL RR
   - Area Chair for CCKS 2025
