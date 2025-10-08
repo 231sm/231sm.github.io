@@ -12,10 +12,26 @@ author_profile: true
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
 <!-- <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>  -->
 
+<!-- - **** \[[PAPER]()\] <br>arXiv 2026. <br> -->
+
+<!-- <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
+
+- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>arXiv, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
+- **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2025. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
+- **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER]()\] <br>arXiv 2026, Demo. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***.
+- **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>arXiv, 2025. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
+- **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2025. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.  -->
+
+
+
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font> 
 - **From Certainty to Uncertainty in Knowledge: Exploring Modeling, Extraction, Representation, and Applications** \[[PAPER](https://ebooks.iospress.nl/volumearticle/72301)\] <br>A Chapter of the [*Handbook on Neurosymbolic AI and Knowledge Graphs*](https://ebooks.iospress.nl/volume/handbook-on-neurosymbolic-ai-and-knowledge-graphs) <br>***Shumin Deng***, Ningyu Zhang, Tianxing Wu. 
 - **Automating Steering for Safe Multimodal Large Language Models** \[[PAPER](https://arxiv.org/abs/2507.13255)\] <br>EMNLP 2025. <br>Lyucheng Wu, Mengru Wang, Ziwen Xu, Tri Cao, Nay Oo, Bryan Hooi, ***Shumin Deng\#***. 
 - **Exploring Model Kinship for Merging Large Language Models** \[[PAPER](https://arxiv.org/abs/2410.12613)\] <br>EMNLP 2025, Findings. <br>Yedi Hu, Yunzhi Yao, Ningyu Zhang, Huajun Chen, ***Shumin Deng\#***. 
+- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>arXiv, 2025. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
+- **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2025. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
+- **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>arXiv, 2025. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
+- **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2025. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
 - **Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework** \[[PAPER](https://aclanthology.org/2025.coling-main.156/)\] <br>COLING 2025. <br>Minzhi Li, Zhengyuan Liu, ***Shumin Deng***, Shafiq Joty, Nancy F. Chen, Min-Yen Kan. 
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** \[[PAPER](https://aclanthology.org/2025.findings-naacl.205/)\] <br>NAACL 2025, Findings; Workshop on Knowledge-Augmented Methods for Natural Language Processing (KnowledgeNLP) at ACL 2024 **(Best Paper Award)**. <br>Yuqi Zhu, Shuofei Qiao, Yixin Ou, ***Shumin Deng***, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. 
 - **Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms** \[[PAPER](https://aclanthology.org/2025.acl-long.1139.pdf)\] <br>ACL 2025 (Oral). <br>Mengru Wang, Ziwen Xu, Shengyu Mao, ***Shumin Deng***, Zhaopeng Tu, Huajun Chen, Ningyu Zhang. 
@@ -24,10 +40,7 @@ author_profile: true
 - **ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging** \[[PAPER](https://aclanthology.org/2025.semeval-1.79.pdf)\] <br>SemEval@ACL 2025. <br>Haoming Xu, Shuxun Wang, Yanqiu Zhao, Yi Zhong, Ziyan Jiang, Ningyuan Zhao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 - **CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners** \[[PAPER](https://arxiv.org/abs/2503.16356)\] <br>EMNLP 2025. <br>Yunzhi Yao, Jizhan Fang, Jia-Chen Gu, Ningyu Zhang, ***Shumin Deng***, Huajun Chen, Nanyun Peng. 
 - **FlipAttack: Jailbreak LLMs via Flipping** \[[PAPER](https://openreview.net/pdf?id=IQ4V1yRCJv)\] <br>ICML 2025. <br>Yue Liu, Xiaoxin He, Miao Xiong, Jinlan Fu, ***Shumin Deng***, Yingwei Ma, Jiaheng Zhang, Bryan Hooi. 
-- **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://openreview.net/forum?id=4z3IguA4Zg)\] <br>ICLR 2025. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
-- **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>ArXiv, 2025. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi. 
-- **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2025. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***. 
-- **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2025. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
+- **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://openreview.net/forum?id=4z3IguA4Zg)\] <br>ICLR 2025. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen.  
 - **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://dl.acm.org/doi/10.1145/3701716.3715192)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
 - **Retrieval-augmented Prompt Learning for Pre-trained Foundation Models** \[[PAPER](https://ieeexplore.ieee.org/document/11193717)\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2025. <br>Xiang Chen, Yixin Ou, Quan Feng, Lei Li, Piji Li, Haibo Ye, Sheng-Jun Huang, Shuofei Qiao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 
