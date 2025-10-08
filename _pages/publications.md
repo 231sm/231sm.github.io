@@ -27,8 +27,9 @@ author_profile: true
 - **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation** \[[PAPER](https://openreview.net/forum?id=4z3IguA4Zg)\] <br>ICLR 2025. <br>Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, ***Shumin Deng***, Huajun Chen. 
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>ArXiv, 2025. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi. 
 - **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2025. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***. 
+- **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2025. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
 - **PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection** \[[PAPER](https://dl.acm.org/doi/10.1145/3701716.3715192)\] <br>WWW (Demo), 2025. <br>Yuexin Li, Hiok Kuek Tan, Qiaoran Meng, Mei Lin Lock, Tri Cao, ***Shumin Deng***, Nay Oo, Hoon Wei Lim, Bryan Hooi. 
-- **Retrieval-augmented Prompt Learning for Pre-trained Foundation Models** \[[PAPER]()\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2025. <br>Xiang Chen, Yixin Ou, Quan Feng, Lei Li, Piji Li, Haibo Ye, Sheng-Jun Huang, Shuofei Qiao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
+- **Retrieval-augmented Prompt Learning for Pre-trained Foundation Models** \[[PAPER](https://ieeexplore.ieee.org/document/11193717)\] <br>TASLP, ACM/IEEE Transactions on Audio, Speech and Language Processing, 2025. <br>Xiang Chen, Yixin Ou, Quan Feng, Lei Li, Piji Li, Haibo Ye, Sheng-Jun Huang, Shuofei Qiao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2024</b></font>
