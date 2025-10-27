@@ -39,6 +39,7 @@ author_profile: true
   - Area Chair for CCKS 2025
   - Area Chair for CCL 2024
   - Publication Chair for CoNLL 2023 (collocated with EMNLP 2023)
+  - Research Session (AI/LLM Agents) Chair for EMNLP 2025
   - Research Session (AI for DB) Chair for ICDE 2023
   - Research Session (Question Answering) Chair for AACL 2023
   - Research Session (Information Extraction) Chair for EMNLP 2022
