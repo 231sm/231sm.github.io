@@ -16,18 +16,15 @@ author_profile: true
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
 
+- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>WSDM, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
 - **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER]()\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
-- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>arXiv, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
 - **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2026. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>arXiv, 2026. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://arxiv.org/abs/2510.18866)\] <br>arXiv, 2026. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. 
+<!-- - **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER]()\] <br>arXiv, 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang.  -->
 
-<!-- - **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>arXiv, 2025. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou\#, Bryan Hooi, ***Shumin Deng\#***. 
-- **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2025. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
-- **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>arXiv, 2025. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
-- **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2025. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
-- **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://arxiv.org/abs/2510.18866)\] <br>arXiv, 2025. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. -->
+
 
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2025</b></font> 
