@@ -32,6 +32,7 @@ author_profile: true
 * **Journal Editor**: 
   - Associate Editor of TASLP
 * **Conference Chair**:
+  - Senior Area Chair for ACL 2026
   - Senior Area Chair for EMNLP 2025
   - Senior Program Committee Member for CIKM 2025
   - Area Chair for NeurIPS 2025

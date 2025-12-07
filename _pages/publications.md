@@ -22,7 +22,7 @@ author_profile: true
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>arXiv, 2026. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://arxiv.org/abs/2510.18866)\] <br>arXiv, 2026. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. 
-<!-- - **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER]()\] <br>arXiv, 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang.  -->
+- **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER](https://arxiv.org/abs/2512.01822)\] <br>arXiv, 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 
 
 
