@@ -23,6 +23,7 @@ author_profile: true
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://arxiv.org/abs/2510.18866)\] <br>arXiv, 2026. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. 
 - **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER](https://arxiv.org/abs/2512.01822)\] <br>arXiv, 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
+- **Rethinking Knowledge Editing In Reasoning Era** \[[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513)\] <br>arXiv 2026. <br>Yunzhi Yao, Jiaxin Qin, Ningyu Zhang, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng***, Nanyun Peng, Huajun Chen.
 
 
 
