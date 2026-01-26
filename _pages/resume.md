@@ -31,6 +31,7 @@ author_profile: true
 <font color=RoyalBlue size=4><b>Academic Service</b></font>
 * **Journal Editor**: 
   - Associate Editor of TASLP
+  - Guest Editor of Frontiers in Big Data
 * **Conference Chair**:
   - Senior Area Chair for ACL 2026
   - Senior Area Chair for EMNLP 2025
