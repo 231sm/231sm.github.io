@@ -16,7 +16,7 @@ author_profile: true
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
 
-- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://arxiv.org/abs/2503.19041)\] <br>WSDM, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
+- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
 - **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER]()\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
 - **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2026. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>ICLR 2026. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
