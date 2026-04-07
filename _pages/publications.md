@@ -15,15 +15,22 @@ author_profile: true
 <!-- - **** \[[PAPER]()\] <br>arXiv 2026. <br> -->
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
-
-- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM, 2026. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
-- **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER]()\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
+ 
+- **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities** \[[PAPER](https://arxiv.org/abs/2603.02578)\] <br>ACL 2026. <br>Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, ***Shumin Deng\#***. 
+- **StructMem: Structured Memory for Long-Horizon Behavior in LLMs** \[[PAPER]()\] <br>ACL 2026, Short. <br>Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, ***Shumin Deng\#***. 
+- **SkillX: Automatically Constructing Skill Knowledge Bases for Agents** \[[PAPER](https://arxiv.org/abs/2604.04804)\] <br>arXiv 2026. <br>Chenxi Wang, Zhuoyun Yu, Xin Xie, Wuguannan Yao, Runnan Fang, Shuofei Qiao, Kexin Cao, Guozhou Zheng, Xiang Qi, Peng Zhang, ***Shumin Deng\#***. 
+<!-- - **AutoDataBench: Evaluating the Data-Centric Self-Evolving Large Language Models** \[[PAPER]()\] <br>arXiv 2026. <br>Yujie Luo, Xiangyuan Ru, Jingsheng Zheng, Jingjing Wang, Yuqi Zhu, Jintian Zhang, Runnan Fang, Kewei Xu, ***Shumin Deng\#***, Lun Du, Da Zheng, Huajun Chen#. -->
+- **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM 2026, Short. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou, Bryan Hooi, ***Shumin Deng\#***. 
+- **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/42394)\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
 - **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2026. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***.
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://arxiv.org/abs/2506.02456)\] <br>ICLR 2026. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://arxiv.org/abs/2510.18866)\] <br>ICLR 2026. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. 
 - **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER](https://arxiv.org/abs/2512.01822)\] <br>ICLR 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
+- **Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics** \[[PAPER](https://arxiv.org/abs/2602.02343)\] <br>ACL 2026. <br>Ziwen Xu, Chenyan Wu, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, ***Shumin Deng***, Zhixuan Chu, Huajun Chen, Ningyu Zhang.  
+- **Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency** \[[PAPER](https://arxiv.org/abs/2601.05905)\] <br>ACL 2026. <br>Haoming Xu, Ningyuan Zhao, Yunzhi Yao, Weihong Xu, Hongru Wang, Xinle Deng, ***Shumin Deng***, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.  
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
-- **Rethinking Knowledge Editing In Reasoning Era** \[[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513)\] <br>arXiv 2026. <br>Yunzhi Yao, Jiaxin Qin, Ningyu Zhang, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng***, Nanyun Peng, Huajun Chen.
+- **Rethinking Knowledge Editing In Reasoning Era** \[[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513)\] <br>arXiv 2026. <br>Yunzhi Yao, Jiaxin Qin, Ningyu Zhang, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng***, Nanyun Peng, Huajun Chen. 
+<!-- - **MemFactory: Rethinking Memory as Continuously Evolving Connectivity** \[[PAPER]()\] <br>arXiv 2026. <br>Jizhan Fang, Buqiang Xu, Zhixian Wang, Haoliang Cao, Xinle Deng, ***Shumin Deng***, Baohua Dong, Hangcheng Zhu, Ruohui Huang, Gang Yu, Ying Wei, Guozhou Zheng, Feiyu Xiong, Haofen Wang, Huajun Chen, Ningyu Zhang.  -->
 
 
 
