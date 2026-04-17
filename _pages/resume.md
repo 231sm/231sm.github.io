@@ -17,9 +17,12 @@ author_profile: true
 
 <!-- ## Experience -->
 <font color=RoyalBlue size=4><b>Experience</b></font>
-* **10/2022 -- Present, National University of Singapore**
+* **04/2026 -- Present, Zhejiang University**
+  - ZJU100 Young Professor, Colledge of Artificial Intelligence
+  - Focus on: LLM Agent(s), Mechanisms of LLMs, Embodied AI
+* **10/2022 -- 01/2026, National University of Singapore**
   - Research Fellow at School of Computing, Computer Science Department
-  - Focus on: LLM-Based Reasoning and Planning, Multi-Agent Collaboration, Human-AI Interaction, Model Editing, Multimodal Knowledge Graph, Scam/Phishing Detection
+  - Focus on: LLM-Based Reasoning and Planning, Multi-Agent Collaboration, Human-AI Interaction, Model Steering, Multimodal Knowledge Graph, Scam/Phishing Detection
 * **05/2018 -- 06/2022, Alibaba Group**
   - Research Intern at New Retail Business Group
   - Focus on: E-Commerce Knowledge Graph
