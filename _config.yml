@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shumin Deng"
   avatar           : "Shumin.jpg"
-  bio              : "Research Fellow at NUS"
-  location         : "Singapore"
+  bio              : "ZJU100 Young Professor at ZJU"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3am3hL4AAAAJ"
-  email            : "231sm@zju.edu.cn; shumin@nus.edu.sg"
+  email            : "231sm@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
