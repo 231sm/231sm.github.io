@@ -17,7 +17,7 @@ author_profile: true
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
  
 - **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities** \[[PAPER](https://arxiv.org/abs/2603.02578)\] <br>ACL 2026. <br>Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, ***Shumin Deng\#***. 
-- **StructMem: Structured Memory for Long-Horizon Behavior in LLMs** \[[PAPER]()\] <br>ACL 2026, Short. <br>Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, ***Shumin Deng\#***. 
+- **StructMem: Structured Memory for Long-Horizon Behavior in LLMs** \[[PAPER](http://arxiv.org/abs/2604.21748)\] <br>ACL 2026, Short. <br>Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, ***Shumin Deng\#***. 
 <!-- - **AutoDataBench: Evaluating the Data-Centric Self-Evolving Large Language Models** \[[PAPER]()\] <br>arXiv 2026. <br>Yujie Luo, Xiangyuan Ru, Jingsheng Zheng, Jingjing Wang, Yuqi Zhu, Jintian Zhang, Runnan Fang, Kewei Xu, ***Shumin Deng\#***, Lun Du, Da Zheng, Huajun Chen#. -->
 - **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM 2026, Short. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou\#, Bryan Hooi, ***Shumin Deng\#***. 
 - **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/42394)\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
