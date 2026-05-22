@@ -16,6 +16,7 @@ author_profile: true
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
  
+<!-- - **Towards Principled Knowledge Editing Methods in Reasoning Era** \[[PAPER]()\] <br>Nature Machine Intelligence, 2026. <br>Ningyu Zhang*, Yunzhi Yao*, Jiaxin Qin, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng\#***, Nanyun Peng, Huajun Chen.  -->
 - **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities** \[[PAPER](https://arxiv.org/abs/2603.02578)\] <br>ACL 2026. <br>Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, ***Shumin Deng\#***. 
 - **StructMem: Structured Memory for Long-Horizon Behavior in LLMs** \[[PAPER](http://arxiv.org/abs/2604.21748)\] <br>ACL 2026, Short. <br>Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, ***Shumin Deng\#***. 
 <!-- - **AutoDataBench: Evaluating the Data-Centric Self-Evolving Large Language Models** \[[PAPER]()\] <br>arXiv 2026. <br>Yujie Luo, Xiangyuan Ru, Jingsheng Zheng, Jingjing Wang, Yuqi Zhu, Jintian Zhang, Runnan Fang, Kewei Xu, ***Shumin Deng\#***, Lun Du, Da Zheng, Huajun Chen#. -->
@@ -29,7 +30,6 @@ author_profile: true
 - **Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency** \[[PAPER](https://arxiv.org/abs/2601.05905)\] <br>ACL 2026. <br>Haoming Xu, Ningyuan Zhao, Yunzhi Yao, Weihong Xu, Hongru Wang, Xinle Deng, ***Shumin Deng***, Jeff Z. Pan, Huajun Chen, Ningyu Zhang. 
 - **Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics** \[[PAPER](https://arxiv.org/abs/2602.02343)\] <br>ACL 2026. <br>Ziwen Xu, Chenyan Wu, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, ***Shumin Deng***, Zhixuan Chu, Huajun Chen, Ningyu Zhang.   
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://arxiv.org/abs/2509.26536)\] <br>arXiv, 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
-- **Rethinking Knowledge Editing In Reasoning Era** \[[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513)\] <br>arXiv 2026. <br>Yunzhi Yao, Jiaxin Qin, Ningyu Zhang, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng***, Nanyun Peng, Huajun Chen. 
 <!-- - **MemFactory: Rethinking Memory as Continuously Evolving Connectivity** \[[PAPER]()\] <br>arXiv 2026. <br>Jizhan Fang, Buqiang Xu, Zhixian Wang, Haoliang Cao, Xinle Deng, ***Shumin Deng***, Baohua Dong, Hangcheng Zhu, Ruohui Huang, Gang Yu, Ying Wei, Guozhou Zheng, Feiyu Xiong, Haofen Wang, Huajun Chen, Ningyu Zhang.  -->
 
 

@@ -58,6 +58,7 @@ author_profile: true
 
 <!-- ## Awards -->
 <font color=RoyalBlue size=4><b>Awards</b></font>
+* Gold Reviewer Award for ICML 2026
 * 2022 Outstanding Graduate of Zhejiang Province, China
 * 2020 Outstanding Intern in Academic Cooperation of Alibaba Group
 * First Prize of AZFT 2019 Outstanding Intern
