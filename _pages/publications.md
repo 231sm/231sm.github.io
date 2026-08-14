@@ -16,7 +16,7 @@ author_profile: true
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>
  
-- **Towards Principled Knowledge Editing Methods in Reasoning Era** \[[PAPER](https://www.nature.com/articles/s42256-026-01276-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260814&utm_content=10.1038/s42256-026-01276-y)\] <br>Nature Machine Intelligence, 2026. <br>Ningyu Zhang*, Yunzhi Yao*, Jiaxin Qin, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng\#***, Huajun Chen\#. 
+- **Towards Principled Knowledge Editing Methods in Reasoning Era** \[[PAPER](https://www.nature.com/articles/s42256-026-01276-y)\] <br>Nature Machine Intelligence, 2026. <br>Ningyu Zhang*, Yunzhi Yao*, Jiaxin Qin, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, ***Shumin Deng\#***, Huajun Chen\#. 
 - **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities** \[[PAPER](https://arxiv.org/abs/2603.02578)\] <br>ACL 2026. <br>Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, ***Shumin Deng\#***. 
 - **StructMem: Structured Memory for Long-Horizon Behavior in LLMs** \[[PAPER](http://arxiv.org/abs/2604.21748)\] <br>ACL 2026, Short. <br>Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, ***Shumin Deng\#***. 
 - **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM 2026, Short. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou\#, Bryan Hooi, ***Shumin Deng\#***. 
