@@ -38,8 +38,12 @@ author_profile: true
 * **Conference Chair**:
   - Senior Area Chair for ACL 2026
   - Senior Area Chair for EMNLP 2025/2026
+  - Senior Area Chair for AAAI 2027
+  - Senior Area Chair for COLING 2027
   - Area Chair for NeurIPS 2025/2026(Reject Invitation)
   - Area Chair for ACL RR
+  - Area Chair for AAAI 2027
+  - Area Chair for EMNLP 2026 System Demonstration
   - Demo and In Use Track Chair for IJCKG 2026
   - Senior Program Committee Member for CIKM 2025/2026
   - Area Chair for CCKS 2025/2026
@@ -53,7 +57,7 @@ author_profile: true
   - TPAMI, ACM Computing Surveys, TKDE, TOIS, TBD, TKDD, TASLP, TALLIP, TNNLS, TOMM, SCIENCE CHINA Information Sciences, Journal of Software, PR, WWWJ, ESWA, Neurocomputing, Knowledge-Based Systems, Big Data Research, NSFC Fundamental Research (Secondary Reviewer), Scientific Reports, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, etc. 
   <!-- *TPAMI* (IEEE Transactions on Pattern Analysis and Machine Intelligence), *TASLP* (ACM/IEEE Transactions on Audio, Speech and Language Processing), *TALLIP* (ACM Transactions on Asian and Low-Resource Language Information Processing), *WWWJ* (World Wide Web Journal), *ESWA* (Expert Systems With Applications), *Neurocomputing*, *KBS* (Knowledge-Based Systems), Big Data Research, Artificial Intelligence Review, Frontiers of Computer Science, Computer Speech & Language, NSFC Fundamental Research (Secondary Reviewer), Journal of Computer Research and Development, Knowledge and Information Systems, Computational Intelligence, International Journal Of Human-computer Interaction.  -->
 * **Conference PC**: 
-  - NeurIPS, ICLR, ICML, COLM, ARR, ACL, EMNLP, NAACL, EACL, AACL, KDD, WWW, AAAI, IJCAI, CIKM, ISWC, AISTATS, Semantics, JIST/IJCKG, CCKS, CCL, NLPCC. 
+  - NeurIPS, ICLR, ICML, COLM, ARR, ACL, EMNLP, NAACL, EACL, AACL, KDD, WWW, AAAI, IJCAI, CIKM, ISWC, AISTATS, Semantics, JIST/IJCKG, CCKS, CCL, NLPCC, CCF WISA. 
   <!-- - NeurIPS'23, ICLR'24/23/22, ICML'24, ACL'24/23/22/21/20, EMNLP'23/22/21, EACL'24/23, AACL'23/22/21, WWW'22, AAAI'24/23/22/21, IJCAI'24/23/21, ISWC'18/24, Semantics'18, JIST'19, CCKS'21.  -->
 
 <!-- ## Awards -->
