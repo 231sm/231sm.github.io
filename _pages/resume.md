@@ -41,6 +41,7 @@ author_profile: true
   - Senior Area Chair for NAACL 2027
   - Senior Area Chair for AAAI 2027
   - Senior Area Chair for COLING 2027
+  - Senior Area Chair for AACL 2027
   - Area Chair for NeurIPS 2025/2026(Reject Invitation)
   - Area Chair for ACL RR
   - Area Chair for AAAI 2027
