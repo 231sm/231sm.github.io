@@ -12,12 +12,18 @@ author_profile: true
 <!-- &ensp;&ensp;&ensp;&nbsp;&nbsp;  -->
 <!-- <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2026</b></font>  -->
 
-<!-- - **** \[[PAPER]()\] <br>arXiv 2026. <br> -->
+<!-- - **** \[[PAPER]()\] <br>arXiv, 2027. <br> -->
 
 
 <font color=RoyalBlue size=4><b>&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;2027</b></font>
 
 - **Unsupervised Skill Discovery for Agentic Data Analysis** \[[PAPER](https://arxiv.org/abs/2606.06416)\] <br>WSDM 2027, Findings. <br>Zhisong Qiu, Kangqi Song, Shengwei Tang, Shuofei Qiao, Lei Liang, Huajun Chen, ***Shumin Deng\#***.
+- **Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents** \[[PAPER](https://arxiv.org/abs/2608.31076)\] <br>arXiv, 2027. <br>Xuehai Wang, Haowei Qin, Tongxin Liu, Junkai Li, Buqiang Xu, Jintian Zhang, Yijun Chen, Zirui Xue, ***Shumin Deng\#***.
+- **SkillX: Automatically Constructing Skill Knowledge Bases for Agents** \[[PAPER](https://arxiv.org/abs/2604.04804)\] <br>arXiv, 2027. <br>Chenxi Wang, Zhuoyun Yu, Xin Xie, Wuguannan Yao, Runnan Fang, Shuofei Qiao, Kexin Cao, Guozhou Zheng, Xiang Qi\#, Peng Zhang, ***Shumin Deng\#***. 
+- **$\Delta\tau$-Bench: Pushing Agents Toward a Moving Capability** \[[PAPER](https://arxiv.org/abs/2610.34238)\] <br>arXiv, 2027. <br>Shuofei Qiao, Xuanguang Pan, Yijun Chen, Wendi Feng, Bin Wu, Runnan Fang, Yuqi Zhu, ***Shumin Deng\#***, Emine Yilmaz.
+- **From Data to Behavior: Predicting Unintended Model Behaviors Before Training** \[[PAPER](https://arxiv.org/abs/2602.04735)\] <br>arXiv, 2027. <br>Mengru Wang, Zhenqian Xu, Junfeng Fang, Yunzhi Yao, ***Shumin Deng***, Huajun Chen, Ningyu Zhang\#. 
+- **Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence** \[[PAPER](https://arxiv.org/abs/2608.12036)\] <br>arXiv, 2027. <br>Mengru Wang\*, Junfeng Fang\*, Shuofei Qiao\*, Zhenqian Xu, Haoming Xu, Haoxiong Wang, ***Shumin Deng***, Linyi Yang, Xin Xu, Yunzhi Yao, Dan Zhang, Fei Shen, Zhixiang Cui, Buqiang Xu, Haozhe Luo, Yunxiang Wei, Ningyu Zhang\#, Julian McAuley, Tat Seng Chua, Huajun Chen\#. 
+- **SkillNet: Create, Evaluate, and Connect AI Skills** \[[PAPER](https://arxiv.org/abs/2603.04448)\] <br>arXiv, 2027. <br>Yuan Liang\*, Ruobin Zhong\*, Haoming Xu\*, Chen Jiang\*, Yi Zhong, Runnan Fang, Jia-Chen Gu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Xin Xu, Tongtong Wu, Kun Wang, Yang Liu, Zhen Bi, Jungang Lou, Yuchen Eleanor Jiang, Hangcheng Zhu, Gang Yu, Haiwen Hong, Longtao Huang, Hui Xue, Chenxi Wang, Yijun Wang, Zifei Shan, Xi Chen, Zhaopeng Tu, Feiyu Xiong, Xin Xie, Peng Zhang, Zhengke Gui, Lei Liang, Jun Zhou, Chiyu Wu, Jin Shang, Yu Gong, Junyu Lin, Changliang Xu, Hongjie Deng, Wen Zhang, Keyan Ding, Qiang Zhang, Fei Huang, Ningyu Zhang\#, Jeff Z Pan, Guilin Qi, Haofen Wang, Huajun Chen. 
 
 
 
@@ -31,17 +37,15 @@ author_profile: true
 - **EM²Mem: Event-Centric Multimodal Memory for Large Language Models** \[[PAPER](https://aclanthology.org/2026.findings-emnlp.903/)\] <br>EMNLP 2026, Findings. <br>Yijun Chen, Yaqi Zheng, Yanya Li, Boyi Xiao, Buqiang Xu, Shuofei Qiao, Jizhan Fang, Xinle Deng, Yunzhi Yao, Xuehai Wang, Liuxin Zhang, Hui Li, Huajun Chen, ***Shumin Deng\#***. 
 - **LookAhead Tuning: Safer Language Models via Partial Answer Previews** \[[PAPER](https://dl.acm.org/doi/10.1145/3773966.3779370)\] <br>WSDM 2026, Short. <br>Kangwei Liu, Mengru Wang, Yujie Luo, Yuan Lin, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Jun Zhou\#, Bryan Hooi, ***Shumin Deng\#***. 
 - **KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks** \[[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/42394)\] <br>AAAI (Demo), 2026. <br>Zekun Xi, Ziyan Jiang, Yujie Bao, Zhenqian Xu, ***Shumin Deng\#***. 
+- **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>Data Intelligence, 2026. <br>Yida Xue, Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Ningyu Zhang, Meng Han, Bryan Hooi, Xi Chen, ***Shumin Deng\#***, Guozhou Zheng\#.
 - **VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents** \[[PAPER](https://proceedings.iclr.cc/paper_files/paper/2026/file/28e4c3696637ac727051a2922643ec6a-Paper-Conference.pdf)\] <br>ICLR 2026. <br>Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, ***Shumin Deng***, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi.  
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation** \[[PAPER](https://proceedings.iclr.cc/paper_files/paper/2026/file/a05b72653ec5b473732129829ae04195-Paper-Conference.pdf)\] <br>ICLR 2026. <br>Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, ***Shumin Deng***, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang. 
 - **InnoGym: Benchmarking the Innovation Potential of AI Agents** \[[PAPER](https://proceedings.iclr.cc/paper_files/paper/2026/file/743514dfa1ef705f378424bd1effb57b-Paper-Conference.pdf)\] <br>ICLR 2026. <br>Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, Shuofei Qiao, Lun Du, Da Zheng, ***Shumin Deng***, Huajun Chen, Ningyu Zhang. 
 - **Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency** \[[PAPER](https://aclanthology.org/2026.acl-long.203/)\] <br>ACL 2026. <br>Haoming Xu, Ningyuan Zhao, Yunzhi Yao, Weihong Xu, Hongru Wang, Xinle Deng, ***Shumin Deng***, Jeff Z. Pan, Huajun Chen, Ningyu Zhang. 
 - **Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics** \[[PAPER](https://aclanthology.org/2026.acl-long.1463/)\] <br>ACL 2026. <br>Ziwen Xu, Chenyan Wu, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, ***Shumin Deng***, Zhixuan Chu, Huajun Chen, Ningyu Zhang. 
 - **OceanGym: A Benchmark Environment for Underwater Embodied Agents** \[[PAPER](https://aclanthology.org/2026.emnlp-main.984/)\] <br>EMNLP 2026. <br>Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, Shuofei Qiao, Mengru Wang, ***Shumin Deng***, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen. 
-- **SkillX: Automatically Constructing Skill Knowledge Bases for Agents** \[[PAPER](https://arxiv.org/abs/2604.04804)\] <br>arXiv, 2026. <br>Chenxi Wang, Zhuoyun Yu, Xin Xie, Wuguannan Yao, Runnan Fang, Shuofei Qiao, Kexin Cao, Guozhou Zheng, Xiang Qi\#, Peng Zhang, ***Shumin Deng\#***. 
-- **Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents** \[[PAPER](https://arxiv.org/abs/2608.31076)\] <br>arXiv 2026. <br>Xuehai Wang, Haowei Qin, Tongxin Liu, Junkai Li, Buqiang Xu, Jintian Zhang, Yijun Chen, Zirui Xue, ***Shumin Deng\#***.
+- **MobileMem: Evaluating Long-Horizon Memory for Language Agents in Real-World Mobile Environments** \[[PAPER](https://arxiv.org/abs/2608.13606)\] <br>NLPCC 2026; ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving. <br>Xinle Deng, Yida Xue, Yijun Chen, Mingjun Mao, Ruobin Zhong, Buqiang Xu, Jizhan Fang, Haoming Xu, Tingwei Wu, Yajing Xu, Shumin Deng, Haofen Wang, Huajun Chen, Ningyu Zhang\#.
 <!-- - **SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories** \[[PAPER](https://arxiv.org/abs/2606.01311)\] <br>arXiv, 2026. <br>Zhuoyun Yu, Xin Xie, Wuguannan Yao, Chenxi Wang, Lei Liang, Xiang Qi, ***Shumin Deng\#***. -->
-<!-- - **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark** \[[PAPER](https://arxiv.org/abs/2506.10960)\] <br>arXiv, 2026. <br>Kangwei Liu, Siyuan Cheng, Bozhong Tian, Xiaozhuan Liang, Yuyang Yin, Meng Han, Ningyu Zhang\#, Bryan Hooi, Xi Chen\#, ***Shumin Deng\#***. -->
-<!-- - **MobileMem: Evaluating Long-Horizon Memory for Language Agents in Real-World Mobile Environments** \[[PAPER]()\] <br>NLPCC 2026. <br>Xinle Deng, Yida Xue, Yijun Chen, Mingjun Mao, Ruobin Zhong, Buqiang Xu, Jizhan Fang, Haoming Xu, Tingwei Wu, Yajing Xu, Shumin Deng, Haofen Wang, Huajun Chen, Ningyu Zhang\#. -->
 
 
 
